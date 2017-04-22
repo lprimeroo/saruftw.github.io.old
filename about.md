@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Hi i'm kuoa!** and here is the place where i document and share my projects.
+I am **Sarthak Munshi**, a Computer Science student at University of Pune. In the past, I have had interned Thirddime and HackerRank. Currently, I'm working as a Research Assistant under <u>Christos Makridis</u> at Stanford Univeristy. This is the place where I document and share my professional life and passion.
 
-* [Github](http://github.com/kuoa)
-* Mail: kuoacat[at]gmail[dot]com
+Cheers!
+
