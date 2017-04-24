@@ -3,7 +3,10 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-**Hi i'm kuoa!** and here is the place where i document and share my projects.
 
-* [Github](http://github.com/kuoa)
-* Mail: kuoacat[at]gmail[dot]com
+<ul>
+	<li><a href="https://twitter.com/saru_95">Twitter</a></li>
+	<li><a href="http://stackoverflow.com/users/3301488/saru95?tab=profile">StackOverflow</a></li>
+	<li><a href="https://github.com/saru95">GitHub</a></li>
+	<li><a href="mailto:sarthak.munshi@hackerrank.com">E-mail</a></li>
+</ul>
