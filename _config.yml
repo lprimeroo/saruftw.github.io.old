@@ -16,7 +16,7 @@ links:
   - name:         About
     url:          /about
     external:     false
-  - name:         Work
+  - name:         Research
     url:          /work
     external:     false
   - name:         Contact
