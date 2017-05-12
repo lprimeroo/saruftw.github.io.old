@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research
+title: Projects/Research
 permalink: /work/
 ---
-
+## Research
 * **Packet Classification using Support Vector Machines with String Kernels**<br />
 Sarthak Munshi<br />
 International Journal of Engineering Research and Applications
@@ -11,3 +11,6 @@ International Journal of Engineering Research and Applications
 <p align="center">
   <img alt="Me" src="http://oi65.tinypic.com/11b2c74.jpg"/>
 </p>
+
+
+##Projects
