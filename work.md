@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects/Research
+title: Work
 permalink: /work/
 ---
 ## Research
@@ -13,4 +13,4 @@ International Journal of Engineering Research and Applications
 </p>
 
 
-##Projects
+## Projects
