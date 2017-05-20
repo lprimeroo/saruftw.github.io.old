@@ -57,7 +57,7 @@ Judy Arrays are suitable to use under the following conditions.
 
 ## Benchmarks
 
-[Source] : https://rusty.ozlabs.org/?p=153
+[Source] : <a href="https://rusty.ozlabs.org/?p=153">https://rusty.ozlabs.org/?p=153</a>
 
 In a series of benchmarks conducted by Rusty Russell (linked above!) between Judy Arrays, Google's SparseHash and DenseHash, and DumbHash; the following results were obtained.
 
@@ -80,12 +80,12 @@ Lookup random elements and access the elements.
 ![Task 3](http://oi68.tinypic.com/fz6bti.jpg)
 
 
-You can read further about these benchmarks @ https://rusty.ozlabs.org/?p=153
+You can read further about these benchmarks @ <a href="https://rusty.ozlabs.org/?p=153">https://rusty.ozlabs.org/?p=153</a>
 ## Current Implementations
 
 The original implementation of Judy Array was written by Douglas Baskins and his team at HP. This implementation is probably the fastest but sprawls across _20,000_ lines of code making it difficult to comprehend. However, it is available as a sweet API library. 
 
-Link: http://sourceforge.net/projects/judy
+Link: <a href="http://sourceforge.net/projects/judy">http://sourceforge.net/projects/judy</a>
 
  Below is an example of the API this implementation provides.
 
@@ -98,6 +98,6 @@ Link: http://sourceforge.net/projects/judy
 
 Years later, a Google engineer, Karl Mcbrain rewrote Douglas's Judy Arrays within _1250_ lines of code. His implementation is quite popular within the FOSS community with multiple language-specific wrappers written around it. 
 
-Link: https://code.google.com/archive/p/judyarray/
+Link: <a href="https://code.google.com/archive/p/judyarray/">https://code.google.com/archive/p/judyarray/</a>
 
 
