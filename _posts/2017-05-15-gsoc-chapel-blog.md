@@ -23,6 +23,6 @@ I would be adding more content to this blog as my coding period progresses. Sign
 
 ### Community Bonding Period
 
-I worked on a couple of bug fixes and features during this period. This phase helped me to get a hang of how things behave in the Chapel ecosystem. Didn't do much in this period due my University examinations.
+I worked on a couple of bug fixes and features during this period. This phase helped me to get a hang of how things behave in the Chapel ecosystem. Didn't do much in this period due my University examinations and contributed to a tiny feature.
 
-* Worked on FileSystem, Path and IO modules. [<a href="http://www.libtom.net/LibTomCrypt/">PR</a>] [<a href="http://www.libtom.net/LibTomCrypt/">PR</a>]
+* Worked on Path module feature. [<a href="https://github.com/chapel-lang/chapel/pull/6200/files">PR</a>]

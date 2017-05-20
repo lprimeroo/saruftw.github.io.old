@@ -5,7 +5,7 @@ description: A practical introduction to backprop for beginners.
 author: Sarthak Munshi
 category: tutorials
 tags: backprop backpropogation neural-network deep-learning beginner
-finished: true
+finished: false
 ---
 
 <p align="center">
