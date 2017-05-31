@@ -23,9 +23,6 @@ I also maintain <u><a href="http://preppapers.com/">PrepPapers</a></u>, a nifty 
 
 I make it a point to open source the stuff that I create. Most of it is accessible on my GitHub profile.
 
-<div align="center" class="github-card" data-github="saru95" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
 My primary interest these days is in full stack web development, machine learning and cryptography. My projects draw ideas from a multitude of domains available in Computer Science.
 
 Cheers!
