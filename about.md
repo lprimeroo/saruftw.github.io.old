@@ -6,6 +6,11 @@ permalink: /about/
 
 <p align="center">
   <img alt="Me" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxNAAAAJDc1NDVmMWNhLWU4M2MtNDU5My04NDdmLTBkYmQ1OTk1N2U1ZA.jpg"/>
+  <ul>
+	<li><a href="https://keybase.io/saru95">Keybase</a></li>
+	<li><a href="http://stackoverflow.com/users/3301488/saru95?tab=profile">StackOverflow</a></li>
+	<li><a href="mailto:sarthak.munshi@hackerrank.com">E-mail</a></li>
+	</ul>
 </p>
 
 I am **Sarthak Munshi**. <!-- Currently, I work at <u><a href="https://www.hackerrank.com/">HackerRank</a></u> where I develop full stack applications.--> I studied Computer Science at the <u><a href="http://www.unipune.ac.in/">University of Pune</a></u> and graduated in 2017. 
@@ -22,8 +27,6 @@ I make it a point to open source the stuff that I create. Most of it is accessib
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 My primary interest these days is in full stack web development, machine learning and cryptography. My projects draw ideas from a multitude of domains available in Computer Science.
-
-Being an avid art aficionado, I also tend to watch a lot of movies and try to squeeze in time for reading books. [<a href="http://www.imdb.com/user/ur55860534/">IMDB</a> &amp; <a href="https://www.goodreads.com/user/show/52421092-sarthak-munshi">Goodreads</a>].
 
 Cheers!
 
