@@ -6,8 +6,8 @@ permalink: /about/
 
 <p align="center">
   <img alt="Me" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxNAAAAJDc1NDVmMWNhLWU4M2MtNDU5My04NDdmLTBkYmQ1OTk1N2U1ZA.jpg"/>
-
-	my_first_name  [dot]  my_second_name  [at]  hackerrank  [dot]  com
+  <br />
+	sarthak  [dot]  munshi  [at]  hackerrank  [dot]  com
 </p>
 
 I am **Sarthak Munshi**. <!-- Currently, I work at <u><a href="https://www.hackerrank.com/">HackerRank</a></u> where I develop full stack applications.--> I studied Computer Science at the <u><a href="http://www.unipune.ac.in/">University of Pune</a></u> and graduated in 2017. 
