@@ -7,9 +7,7 @@ permalink: /about/
 <p align="center">
   <img alt="Me" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxNAAAAJDc1NDVmMWNhLWU4M2MtNDU5My04NDdmLTBkYmQ1OTk1N2U1ZA.jpg"/>
   <ul>
-	<li><a href="https://keybase.io/saru95">Keybase</a></li>
-	<li><a href="http://stackoverflow.com/users/3301488/saru95?tab=profile">StackOverflow</a></li>
-	<li><a href="mailto:sarthak.munshi@hackerrank.com">E-mail</a></li>
+	<li>my_first_name [dot] my_second_name [at] hackerrank [dot] com</a></li>
 	</ul>
 </p>
 
