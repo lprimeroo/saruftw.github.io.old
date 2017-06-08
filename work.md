@@ -3,6 +3,12 @@ layout: page
 title: Work
 permalink: /work/
 ---
+
+## Projects
+
+* <a href="https://github.com/saru95">Github</a>
+
+
 ## Research
 * **Packet Classification using Support Vector Machines with String Kernels**<br />
 Sarthak Munshi<br />
@@ -13,6 +19,3 @@ International Journal of Engineering Research and Applications
 </p>
 
 
-## Projects
-
-* <a href="https://github.com/saru95">Github</a>
