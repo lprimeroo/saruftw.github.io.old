@@ -10,15 +10,16 @@ permalink: /about/
 	sarthak  [dot]  munshi  [at]  hackerrank  [dot]  com
 </p>
 
-I am **Sarthak Munshi**. <!-- Currently, I work at <u><a href="https://www.hackerrank.com/">HackerRank</a></u> where I develop full stack applications.--> I studied Computer Science at the <u><a href="http://www.unipune.ac.in/">University of Pune</a></u> and graduated in 2017. 
+* <strong>July 2017</strong> - Joined <a href="https://www.hackerrank.com">HackerRank</a> as a Full Stack Developer / Challenge Curator [Current].
 
-In the past, I have had the opportunity to intern at <u><a href="http://thirddime.com/">Thirddime</a></u> and <u><a href="https://www.hackerrank.com/">HackerRank</a></u>. I also worked as a Research Intern under <u><a href="https://www.christosmakridis.com/">Christos Makridis</a></u> at <u><a href="http://stanford.edu/">Stanford University</a></u> where the research was focused on the areas of public and labor economics.
+* <strong>June 2017</strong> - Graduated from <a href="http://pict.edu">Pune Institute of Computer Technology</a>, <a href="http://unipune.ac.in">University of Pune</a> with a B.E. in Computer Engineering.
 
-I also successfully qualified for the <u><a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a></u> program under the <u><a href="http://chapel.cray.com/">Chapel</a></u> organization. My work here dealt with arming the Chapel runtime ecosystem with its own set of cryptography modules.
+* <strong>May 2017</strong> - <a href="https://summerofcode.withgoogle.com">Google Summer of Code Intern</a> with <a href="http://www.cray.com">Cray's</a> <a href="http://chapel.cray.com">Chapel</a> language.
 
-I also maintain <u><a href="http://preppapers.com/">PrepPapers</a></u>, a nifty website that aggregates question papers of multiple competitive examinations across India.
+* <strong>Jan 2017</strong> - Interned at <a href="https://www.hackerrank.com">HackerRank</a>.
 
-I make it a point to open source the stuff that I create. Most of it is accessible on my GitHub profile.
+* <strong>Jan 2014</strong> - Interned at <a href="http://thirddime.com">ThirdDime</a>.
+
 
 My primary interest these days is in full stack web development, machine learning and cryptography. My projects draw ideas from a multitude of domains available in Computer Science.
 
