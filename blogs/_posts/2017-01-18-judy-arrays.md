@@ -3,7 +3,6 @@ layout: post
 title: Judy Array Gist
 description: "What is a Judy Array? What does it do? How fast is it?"
 author: Sarthak Munshi
-category: tutorials
 tags: core-cs data-structures judy-arrays database
 finished: true
 ---

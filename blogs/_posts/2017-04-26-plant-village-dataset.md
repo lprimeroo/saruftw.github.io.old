@@ -3,7 +3,6 @@ layout: post
 title: Handy Download Script - Plant Village Dataset
 description: A nifty little script that can be used to download the Plant Village dataset.
 author: Sarthak Munshi
-category: tutorials
 tags: machine-learning dataset plants plant-village scipt python
 finished: true
 ---
