@@ -32,4 +32,4 @@ I worked on a couple of bug fixes and features during this period. This phase he
 ### Coding Period
 
 * Starting creating foreign function interfaces over OpenSSL's EVP API.
-* Reported a bug. [<a href="https://github.com/chapel-lang/chapel/issues/6483">Issue</a>]
+* Reported a compiler bug. [<a href="https://github.com/chapel-lang/chapel/issues/6483">Issue</a>]

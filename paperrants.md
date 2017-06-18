@@ -11,7 +11,7 @@ permalink: /paperrants/
 <div class="home">
 
   <ul class="post-list">
-    {% for paper in site.papers %}
+    {% for paper in site.categories.papers %}
     <li>
         <div>
         <a class="post-link" href="{{ site.url }}{{ paper.url}}">{{ paper.title }}</a>
