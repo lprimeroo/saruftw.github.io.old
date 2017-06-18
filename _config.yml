@@ -19,9 +19,9 @@ links:
   - name:         Work
     url:          /work
     external:     false
-  # - name:         Contact
-  #   url:          /contact
-  #   external:     false
+  - name:         PaperRants
+    url:          /paperrants
+    external:     false
 
 # Build settings
 markdown: kramdown 
