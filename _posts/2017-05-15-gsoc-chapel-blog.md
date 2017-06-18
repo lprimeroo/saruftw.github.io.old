@@ -19,7 +19,7 @@ finished: true
 
 I'm quite thrilled this summer as I would be working with Cray's Chapel language under the Google Summer of Code program. My prerogative this summer would be to arm Chapel with its own Cryptography library which would efficiently utilize the parallelism Chapel offers. I would be using <u><a href="https://www.openssl.org">OpenSSL</a></u> for this purpose.
 
-I would be adding more content to this blog as my coding period progresses. Signing off the preface to this blog post with the link to my <u><a href="https://drive.google.com/file/d/0BwrR3ZPLVYhkNUpMcU9jMUQ0VE0/view?usp=sharing">proposal</a></u>.
+I would be adding more detailed content to this blog as my coding period progresses. Signing off the preface to this blog post with the link to my <u><a href="https://drive.google.com/file/d/0BwrR3ZPLVYhkNUpMcU9jMUQ0VE0/view?usp=sharing">proposal</a></u>.
 
 ### Community Bonding Period
 
@@ -32,3 +32,4 @@ I worked on a couple of bug fixes and features during this period. This phase he
 ### Coding Period
 
 * Starting creating foreign function interfaces over OpenSSL's EVP API.
+* Reported a bug. [<a href="https://github.com/chapel-lang/chapel/issues/6483">Issue</a>]
