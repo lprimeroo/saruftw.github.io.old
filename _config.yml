@@ -19,7 +19,10 @@ links:
   - name:         Work
     url:          /work
     external:     false
-  - name:         Paper_Rants
+  - name:         Reading-List
+    url:          /readinglist
+    external:     false
+  - name:         Paper-Rants
     url:          /paperrants
     external:     false
 
