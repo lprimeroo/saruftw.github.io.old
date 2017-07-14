@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p align="center">
-  <img alt="Me" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxNAAAAJDc1NDVmMWNhLWU4M2MtNDU5My04NDdmLTBkYmQ1OTk1N2U1ZA.jpg"/>
+  <img alt="My God" src="https://pbs.twimg.com/media/CpQ_E2SXgAISzk2.jpg"  width="300" height="400"/>
   <br />
 	sarthak  [dot]  munshi  [at]  hackerrank  [dot]  com
 </p>
