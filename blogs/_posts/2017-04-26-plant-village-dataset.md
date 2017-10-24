@@ -17,18 +17,6 @@ To make this dataset more accessible, I have pre-downloaded all the **csv** file
 
 You can download the entire 1.7MB package <a href="https://drive.google.com/file/d/0BwrR3ZPLVYhkWmxSQTdHY3NPbU0/view">here</a>.
 
-The package contains - **data_csv** and **download.py**.
+The package contains - **data_csv** and **download.py**. Run **download.py** from within the directory. Cheers.
 
-The script is mentioned below for reference purposes.
-
-<script src="https://pastebin.com/embed_js/JDUtxfA1"></script>
-
-
-<br />
-To use this package:
-
-1. Download and extract the zip file.
-2. cd **PlantVillageScript**
-3. pip install tqdm pandas
-4. python **download.py**
 

@@ -12,6 +12,8 @@ permalink: /readinglist/
 	<strong>2017</strong>
 </p>
 
+* <a href="https://www.amazon.com/Search-Schrodingers-Cat-Updated-Gribbin/dp/B00C6OM9V6/ref=sr_1_2?ie=UTF8&qid=1505757323&sr=8-2&keywords=In+Search+Of+Schrodinger%27s+Cat">In Search Of Schrodinger's Cat</a>, by John Gribbin 
+
 * <a href="https://www.amazon.com/Better-Angels-Our-Nature-Violence/dp/0143122010/ref=sr_1_1?ie=UTF8&qid=1499622864&sr=8-1&keywords=The+Better+Angels+of+Our+Nature">The Better Angels of Our Nature</a>, by Steven Pinker
 
 * <a href="https://www.amazon.com/Calculus-Made-Easy-introduction-differential/dp/1484024850/ref=sr_1_1?ie=UTF8&qid=1499619131&sr=8-1&keywords=Calculus+Made+Easy">Calculus Made Easy</a>, by Silvanus Phillips Thompson

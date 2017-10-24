@@ -8,6 +8,7 @@ permalink: /work/
 
 * <a href="https://github.com/saru95">Github</a>
 
+{::comment}
 
 ## Research
 * **Packet Classification using Support Vector Machines with String Kernels**<br />
@@ -18,4 +19,5 @@ International Journal of Engineering Research and Applications
   <img alt="Me" src="http://oi65.tinypic.com/11b2c74.jpg"/>
 </p>
 
+{:/comment}
 
