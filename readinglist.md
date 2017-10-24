@@ -12,7 +12,9 @@ permalink: /readinglist/
 	<strong>2017</strong>
 </p>
 
-* <a href="https://www.amazon.com/Search-Schrodingers-Cat-Updated-Gribbin/dp/B00C6OM9V6/ref=sr_1_2?ie=UTF8&qid=1505757323&sr=8-2&keywords=In+Search+Of+Schrodinger%27s+Cat">In Search Of Schrodinger's Cat</a>, by John Gribbin 
+* <a href="https://www.amazon.com/Winning-Heart-Woman-Your-Dreams/dp/0692552669/ref=sr_1_1?ie=UTF8&qid=1508829982&sr=8-1&keywords=how+to+be+a+3+percent+man">How To Be A 3% Man</a>, by Corey Wayne
+
+* <a href="https://www.amazon.com/Search-Schrodingers-Cat-Updated-Gribbin/dp/B00C6OM9V6/ref=sr_1_2?ie=UTF8&qid=1505757323&sr=8-2&keywords=In+Search+Of+Schrodinger%27s+Cat">In Search Of Schrodinger's Cat</a>, by John Gribbin
 
 * <a href="https://www.amazon.com/Better-Angels-Our-Nature-Violence/dp/0143122010/ref=sr_1_1?ie=UTF8&qid=1499622864&sr=8-1&keywords=The+Better+Angels+of+Our+Nature">The Better Angels of Our Nature</a>, by Steven Pinker
 
