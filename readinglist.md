@@ -9,6 +9,16 @@ permalink: /readinglist/
 </p>
 
 <p align="center">
+	<strong>2018</strong>
+</p>
+
+* <a href="https://www.amazon.com/Pandoras-Lab-Seven-Stories-Science/dp/1426217986/ref=sr_1_1?s=books&ie=UTF8&qid=1512240637&sr=1-1&keywords=pandoras+lab">Pandora's Lab: Seven Stories of Science Gone Wrong</a>, by Paul A. Offit
+
+* <a href="https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/ref=sr_1_1?ie=UTF8&qid=1512240567&sr=8-1&keywords=1984">1984</a>, by George Orwell
+
+
+
+<p align="center">
 	<strong>2017</strong>
 </p>
 
