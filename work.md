@@ -6,7 +6,10 @@ permalink: /work/
 
 ## Projects
 
-* <a href="https://github.com/saru95">Github</a>
+Most of my projects are available on my <a href="https://github.com/saru95">Github</a>.
+<br />
+<br />
+<br />
 
 {::comment}
 
@@ -20,4 +23,3 @@ International Journal of Engineering Research and Applications
 </p>
 
 {:/comment}
-
