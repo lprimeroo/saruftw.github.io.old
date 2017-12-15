@@ -20,7 +20,7 @@ permalink: /about/
 	previously for Cray's <a href="https://chapel-lang.org/">ChapelLang</a> as part of
 	<a href="https://summerofcode.withgoogle.com/archive/">Google SoC</a>.
 
-	Apart from my love for intelligent systems, I also love to <a href="/read">read</a>,
+	Apart from my love for intelligent systems, I also love to <a href="/readinglist">read</a>,
 	<a href="#">sketch</a>, <a href="#">play the guitar</a> and <a href="https://www.instagram.com/saruftw/">travel</a>.<br /><br />
 	Always up for new and interesting collaborations or opportunities.
 </p>
