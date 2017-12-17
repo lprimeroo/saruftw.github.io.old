@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judy Array Gist
+title: What are Judy Arrays?
 description: "What is a Judy Array? What does it do? How fast is it?"
 author: Sarthak Munshi
 tags: core-cs data-structures judy-arrays database
@@ -53,8 +53,7 @@ Judy Arrays are suitable to use under the following conditions.
 
 1. Large and sparse data sets.
 2. Semi-sequential data sets.
-3. Dense data sets.
-4. General low latency requirement.
+3. General low latency requirement.
 
 ## Benchmarks
 
