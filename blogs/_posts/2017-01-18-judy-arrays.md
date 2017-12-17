@@ -29,8 +29,9 @@ But what if a situation arises, wherein the data to be indexed is sparse in natu
 
 Enter Judy Arrays. In a nutshell, Judy Array is a **_trie_**. I suggest you read up about tries if you're not familiar with it. It is a very rudimentary and useful data structure and is also called a **_digital tree_** or a **_radix tree_**.
 
-
+<p align="center">
 ![Example of a Trie](http://odhyan.com/blog/wp-content/uploads/2010/11/trie-example.png)
+</p>
 
 Each node in a Judy Array has 256 branches. For a 32-bit expanse, that roughly translates to at most 4 lookups. Also, if the number of keys to be stored or **_population_** is quite small, Judy stores everything in the root. A well-implemented Judy Array also uses highly efficient node-compaction schemes that further reduce the size of each node.
 
