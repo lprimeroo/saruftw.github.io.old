@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home of Sarthak</title>
+    <description>Home of Sarthak
+</description>
+    <link>https://saru.ml/</link>
+    <atom:link href="https://saru.ml/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Dec 2017 16:14:14 +0530</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2017 16:14:14 +0530</lastBuildDate>
+    <generator>Jekyll v3.5.0</generator>
+    
+      <item>
+        <title>Handy Download Script - Plant Village Dataset</title>
+        <description>&lt;p&gt;Plant Village Images is an open access database of 80,000+ images of healthy and diseased crops. It is a tremendously generous effort by Penn State University and EPFL.
+In order to download the images, you need to download 82 &lt;strong&gt;csv&lt;/strong&gt; files segregated based on the plants with the diseases they are infected with. These files, then have the links to the actual images.
+Well, the dataset is ~40GB in size. Imagine scraping 82 files where the total downloaded data amounts to ~40GB.
+Moreover, the files are also infused with certain metadata which needs to be cleaned before you can scrape them.&lt;/p&gt;
+
+&lt;p&gt;You also need to sign up and create an account on the website for achieving all this. All this causes a bit of pain when the effort and the dataset is of such noble magnitude.
+To make this dataset more accessible, I have pre-downloaded all the &lt;strong&gt;csv&lt;/strong&gt; files and written a tiny script to make scraping them much easier and interactive.&lt;/p&gt;
+
+&lt;p&gt;You can download the entire 1.7MB package &lt;a href=&quot;https://drive.google.com/file/d/0BwrR3ZPLVYhkWmxSQTdHY3NPbU0/view&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The package contains - &lt;strong&gt;data_csv&lt;/strong&gt; and &lt;strong&gt;download.py&lt;/strong&gt;. Run &lt;strong&gt;download.py&lt;/strong&gt; from within the directory. Cheers.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Apr 2017 00:00:00 +0530</pubDate>
+        <link>https://saru.ml/blogs/2017/04/26/plant-village-dataset.html</link>
+        <guid isPermaLink="true">https://saru.ml/blogs/2017/04/26/plant-village-dataset.html</guid>
+        
+        <category>machine-learning</category>
+        
+        <category>dataset</category>
+        
+        <category>plants</category>
+        
+        <category>plant-village</category>
+        
+        <category>scipt</category>
+        
+        <category>python</category>
+        
+        
+        <category>blogs</category>
+        
+      </item>
+    
+      <item>
+        <title>What are Judy Arrays?</title>
+        <description>&lt;p&gt;While building a key-value for my university project, I came across this data structure called &lt;strong&gt;Judy Arrays&lt;/strong&gt;. It was developed by Douglas Baskins while he was working at HP. Due to the dearth of academic research on this specific subject, Judy Arrays aren’t quite as popular as other data structures. This article is my humble attempt to explain the complex data churning that goes underneath this data structure.&lt;/p&gt;
+
+&lt;p&gt;A simple Wikipedia lift will tell you that&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Judy array is a data structure implementing a type of associative array with
+high performance and low memory usage.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If at all it is an associative array, why on earth do we need another data structure doing the same job as AVL Trees, B-Trees or Skip lists? Let’s find out.&lt;/p&gt;
+
+&lt;p&gt;Any living being who has written a few lines of code would be familiar with the traditional arrays which are available in most of the programming languages. A traditional array works exceptionally well due to its&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;fast lookup&lt;/li&gt;
+  &lt;li&gt;fast insertion, and&lt;/li&gt;
+  &lt;li&gt;fast deletion&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All we need is the array’s base address and an offset to access an element as all the values are stored contiguously.&lt;/p&gt;
+
+&lt;p&gt;But what if a situation arises, wherein the data to be indexed is sparse in nature. The size of a traditional array is predetermined and cannot vary with sparseness in data. This is grossly memory inefficient. To better understand this, consider that your range of keys or &lt;strong&gt;&lt;em&gt;Expanse&lt;/em&gt;&lt;/strong&gt; is &lt;em&gt;1…100&lt;/em&gt;. Thus, we create a traditional array of &lt;em&gt;size = 100&lt;/em&gt; so that it covers the entire expanse. Now, if we happen to fill just 10 locations in the array, it leads to a loss of 90 memory locations. Memory inefficient, isn’t it? Although, a highly populated array may be an exception.&lt;/p&gt;
+
+&lt;p&gt;Enter Judy Arrays. In a nutshell, Judy Array is a &lt;strong&gt;&lt;em&gt;trie&lt;/em&gt;&lt;/strong&gt;. I suggest you read up about tries if you’re not familiar with it. It is a very rudimentary and useful data structure and is also called a &lt;strong&gt;&lt;em&gt;digital tree&lt;/em&gt;&lt;/strong&gt; or a &lt;strong&gt;&lt;em&gt;radix tree&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+![Example of a Trie](http://odhyan.com/blog/wp-content/uploads/2010/11/trie-example.png)
+&lt;/p&gt;
+
+&lt;p&gt;Each node in a Judy Array has 256 branches. For a 32-bit expanse, that roughly translates to at most 4 lookups. Also, if the number of keys to be stored or &lt;strong&gt;&lt;em&gt;population&lt;/em&gt;&lt;/strong&gt; is quite small, Judy stores everything in the root. A well-implemented Judy Array also uses highly efficient node-compaction schemes that further reduce the size of each node.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Judy Array does not use any hashing function and stores the keys in sorted
+order just like other tree implementations.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;what-makes-it-fast&quot;&gt;What makes it fast?&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Avoids cache-line fills :&lt;/strong&gt; A cache-line fill is the additional time required to do a read reference from RAM when a word is not found in cache. In today’s computers the time for a cache-line fill is in the range of &lt;em&gt;50..2000&lt;/em&gt; machine instructions. Therefore a cache-line fill should be avoided when fewer than 50 instructions can do the same job. Judy is designed to avoid cache-line fills wherever possible.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Memory Efficient :&lt;/strong&gt; It’s node-compaction and brach-compression schemes makes it well suited for semi-sequential sparse data. Some of the branch compression schemes are &lt;em&gt;linear&lt;/em&gt; and &lt;em&gt;bitmap&lt;/em&gt; but they are beyond the scope of this article. Also, Judy Arrays are left &lt;em&gt;uncompressed&lt;/em&gt; when the population is dense.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;No tree balancing and dynamically growing :&lt;/strong&gt; Judy Array can grow or shrink as elements are added to, or removed from, the array. The memory used by Judy arrays is nearly proportional to the number of elements in the Judy array.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;when-to-use-it&quot;&gt;When to use it?&lt;/h2&gt;
+
+&lt;p&gt;Judy Arrays are suitable to use under the following conditions.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Large and sparse data sets.&lt;/li&gt;
+  &lt;li&gt;Semi-sequential data sets.&lt;/li&gt;
+  &lt;li&gt;General low latency requirement.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;benchmarks&quot;&gt;Benchmarks&lt;/h2&gt;
+
+&lt;p&gt;[Source] : &lt;a href=&quot;https://rusty.ozlabs.org/?p=153&quot;&gt;https://rusty.ozlabs.org/?p=153&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In a series of benchmarks conducted by Rusty Russell (linked above!) between Judy Arrays, Google’s SparseHash and DenseHash, and DumbHash; the following results were obtained.&lt;/p&gt;
+
+&lt;h4 id=&quot;task-1&quot;&gt;Task 1&lt;/h4&gt;
+
+&lt;p&gt;Initial insertion of keys 0 to 49,999,999 in order, looking them up in order, looking up keys 50,000,000 to 99,999,999 in order.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://oi65.tinypic.com/2j4vcb9.jpg&quot; alt=&quot;Task 1&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;task-2&quot;&gt;Task 2&lt;/h4&gt;
+
+&lt;p&gt;Delete everything and reinsert them all (in order).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://oi67.tinypic.com/2z3xts3.jpg&quot; alt=&quot;Task 2&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;task-3&quot;&gt;Task 3&lt;/h4&gt;
+
+&lt;p&gt;Lookup random elements and access the elements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://oi68.tinypic.com/fz6bti.jpg&quot; alt=&quot;Task 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can read further about these benchmarks @ &lt;a href=&quot;https://rusty.ozlabs.org/?p=153&quot;&gt;https://rusty.ozlabs.org/?p=153&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;current-implementations&quot;&gt;Current Implementations&lt;/h2&gt;
+
+&lt;p&gt;The original implementation of Judy Array was written by Douglas Baskins and his team at HP. This implementation is probably the fastest but sprawls across &lt;em&gt;20,000&lt;/em&gt; lines of code making it difficult to comprehend. However, it is available as a sweet API library.&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;http://sourceforge.net/projects/judy&quot;&gt;http://sourceforge.net/projects/judy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Below is an example of the API this implementation provides.&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;n&quot;&gt;Judy1&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;maps&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;an&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Index&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bit&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;JudyL&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;maps&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;an&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Index&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pointer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;JudySL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;maps&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;an&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Index&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;null&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;terminated&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;JudyHS&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;maps&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;an&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Index&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;of&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bytes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Length&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Years later, a Google engineer, Karl Mcbrain rewrote Douglas’s Judy Arrays within &lt;em&gt;1250&lt;/em&gt; lines of code. His implementation is quite popular within the FOSS community with multiple language-specific wrappers written around it.&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://code.google.com/archive/p/judyarray/&quot;&gt;https://code.google.com/archive/p/judyarray/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Jan 2017 00:00:00 +0530</pubDate>
+        <link>https://saru.ml/blogs/2017/01/18/judy-arrays.html</link>
+        <guid isPermaLink="true">https://saru.ml/blogs/2017/01/18/judy-arrays.html</guid>
+        
+        <category>core-cs</category>
+        
+        <category>data-structures</category>
+        
+        <category>judy-arrays</category>
+        
+        <category>database</category>
+        
+        
+        <category>blogs</category>
+        
+      </item>
+    
+  </channel>
+</rss>
