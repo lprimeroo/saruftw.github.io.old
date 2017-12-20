@@ -11,7 +11,7 @@ I recently concluded my first international vacation with a few colleagues. We w
 
 In retrospect, the vacation turned out to be an epitome of liberation for me. I witnessed exotic sights, had scrumptious delicacies, stayed in lavish residences(thanks to AirBnB!), met some fantastic people and finally understood the definition of _CHILLING_.
 
-Here's a picture of me swimming on the 51st floor of our accommodation overlooking the Petronas Towers and the KL Tower(not in the picture).
+Here's a picture of me(with a really pathetic expression) swimming on the 51st floor of our accommodation overlooking the Petronas Towers and the KL Tower(not in the picture).
 
 <p align="center">
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/wtqo4pgmskv97zc/IMG_3051.JPG" />
@@ -48,10 +48,10 @@ The next day, I bid adieu to the most mellow city I've been to and boarded a fli
 
 ### Penang
 
-Penang is an old city with a load of historical backing. Penang isn't as exciting as other places and is more of a family destination. Definitely, not meant for explorers or people who're on a relaxed vacation. Won't ramble much about Penang, since there wasn't anything awe-striking to witness here. Regardless of that, we had a lot of fun renting out <a href="https://www.linkbike.my/">bikes</a> and exploring <a href="https://goo.gl/maps/B5x4SCHCH6S2">George Town</a>. Apart from that, we also visited the <a href="https://goo.gl/maps/RZwkoPc5HPM2">Penang Hill</a> and the infamous <a href="https://www.google.co.in/search?q=love+lane+georgetown&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjEuaLn2pjYAhXLpo8KHTXvATAQ_AUICygC&biw=1280&bih=703">Love Lane</a> (at night!). The most exhilarating part of my stay here was my AirBnB accommodation. Simply magnificent. Have a look at the pictures and feel free to judge.
+Penang is an old city with a load of historical backing. Penang isn't as exciting as other places and is more of a family destination. Definitely, not meant for explorers or people who're on a relaxed vacation. Won't ramble much about Penang, since there wasn't anything awe-striking to witness here. Regardless of that, we had a lot of fun renting out <a href="https://www.linkbike.my/">bikes</a> and exploring <a href="https://goo.gl/maps/B5x4SCHCH6S2">George Town</a>. Apart from that, we also visited the <a href="https://goo.gl/maps/RZwkoPc5HPM2">Penang Hill</a> and the infamous <a href="https://www.google.co.in/search?q=love+lane+georgetown&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjEuaLn2pjYAhXLpo8KHTXvATAQ_AUICygC&biw=1280&bih=703">Love Lane</a> at night. The most exhilarating part of my stay here was my AirBnB accommodation. Simply magnificent. Have a look at the pictures and feel free to judge.
 
 <p align="center">
-<img style="max-width: 80%; transform: rotate(90deg); margin-top: 70px;" src="https://dl.dropboxusercontent.com/s/vbbr731styfl8xi/Photo%2018-10-17%2C%202%2051%2031%20PM.jpg?dl=0" />
+<img style="max-width: 80%; transform: rotate(90deg); margin-top: 75px;" src="https://dl.dropboxusercontent.com/s/vbbr731styfl8xi/Photo%2018-10-17%2C%202%2051%2031%20PM.jpg?dl=0" />
 <br /><br />
 <img style="max-width: 80%; transform: rotate(90deg); margin-top: 150px;" src="https://dl.dropboxusercontent.com/s/01bp3cin065s1ds/Photo%2020-10-17%2C%204%2023%2049%20AM.jpg?dl=0" />
 <br /><br /><br /><br /><br />
@@ -67,4 +67,19 @@ Penang is an old city with a load of historical backing. Penang isn't as excitin
 <br /><br /><br /><br /><br />
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/ktxa6ftzc254fy9/Photo%2019-10-17%2C%207%2049%2010%20AM.jpg?dl=0" />
 </p>
- [in progress]
+
+Next, we moved our bodies to Langkawi. Traveling via a sea-ferry that I'd easily term as the most disappointing water ride ever.
+
+<br />
+
+### Langkawi
+
+Langkawi is probably the third most popular tourist destination in Malaysia after Kuala Lumpur and Tioman Island. We had to visit this place. Langkawi is split into 2 parts - <a href="https://goo.gl/maps/ega3eLsMctu"/>Kuah</a> and <a href="https://goo.gl/maps/Ec4WkwvpMYr">Pantai Cenang</a>. We made a huge mistake by booking our accommodation in Kuah. Even though it was a lovely place, it was far from popular places such as the Langkawi SkyBridge, beaches of Pantai Cenang and various duty-free areas. Regardless, we hung around at Pantai Cenang most of the time. The preponderance of beach stretches in Pentai Cenang was soul-touching. Clean beaches with shacks for cheap food and drinks, make-shift counters for trying out adventure sports, scenic sunset, refreshing sea breezes and an equally satisfying weather won us over despite Langkawi being flooded with tourists. Below, are the pictures of our accommodation with an infinity pool overlooking the sea and some views from the SkyBridge.
+
+<p align="center">
+<img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/nfuss2hn57o9zk9/Photo%2020-10-17%2C%2010%2043%2021%20AM.jpg?dl=0" />
+<br /><br />
+<img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/7sw2tphwrzehhlb/Photo%2020-10-17%2C%202%2059%2021%20PM.jpg?dl=0" />
+<br /><br />
+<img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/70gxkni8f5yzszo/Photo%2020-10-17%2C%203%2030%2023%20PM.jpg?dl=0" />
+</p>
