@@ -24,19 +24,29 @@ The journey began by flying to Kota Kinabalu from Bangalore via Kuala Lumpur. Ko
 
 <p align="center">
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/lgcb9pgriqj5rhy/Photo%2017-10-17%2C%206%2008%2040%20PM%20%281%29.jpg?dl=0" />
-<br /><br /><br />
+<br /><br />
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/qrc8if5c1aii93z/Photo%2017-10-17%2C%2010%2026%2043%20AM.jpg?dl=0" />
 </p>
 
 As we were relaxing on the island, we started to get bewildered by the changing climate which eventually turned itself into a storm in a short span of time. The entire population present on the island started to rush towards the shacks to protect themselves from the sand, rain and falling trees. Vacant boats started to evacuate family crowd first. We were one of the last factions to leave the island. Call it fate, but the storm subsided as soon as we left the island. The video below(recorded by my colleague) shows the initial behavior of the storm. The storm became more violent after this and then eventually subsided.
 
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/siwEVrZOkvs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/siwEVrZOkvs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</p>
 
 I really wanted to trek Mount Kinabalu and give scuba diving a shot. Since we were short on time, we decided to explore the city instead. Personally, I'm not an ardent supporter of going to bars or visiting shopping areas or traveling within the city in general. But to maintain the fun quotient of your travel group, it's important to please everyone's interests. We hung mostly around the <a href="https://goo.gl/maps/AvGNZ6CxPRK2">Suria Sabah Complex</a> and <a href="https://goo.gl/maps/YNzLCgnQAAw">Waterfront</a>. Waterfront is a really beautiful place in the daylight and a place bustling with bars, pubs and discotheques when the sun settles. Decent place for moderately priced drinks and food.
 
 <p align="center">
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/xo1qjy8d507butg/Photo%2017-10-17%2C%203%2048%2009%20PM.jpg?dl=0" />
-<br /><br /><br />
+<br /><br />
 <img style="max-width: 80%;" src="https://www.mumonthemove.com/wp-content/uploads/2016/04/Kota-kinabalu-waterfront.jpg" />
 </p>
+
+The next day, I bid adieu to the most mellow city I've been to and boarded a flight for our next destination, Penang.
+
+<br/>
+
+### Penang
+
+
  [in progress]
