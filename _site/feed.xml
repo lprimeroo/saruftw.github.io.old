@@ -4,10 +4,10 @@
     <title>Home of Sarthak</title>
     <description>Home of Sarthak
 </description>
-    <link>https://saru.ml/</link>
-    <atom:link href="https://saru.ml/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Dec 2017 16:14:14 +0530</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2017 16:14:14 +0530</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Dec 2017 16:37:41 +0530</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2017 16:37:41 +0530</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
       <item>
@@ -25,8 +25,8 @@ To make this dataset more accessible, I have pre-downloaded all the &lt;strong&g
 &lt;p&gt;The package contains - &lt;strong&gt;data_csv&lt;/strong&gt; and &lt;strong&gt;download.py&lt;/strong&gt;. Run &lt;strong&gt;download.py&lt;/strong&gt; from within the directory. Cheers.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Apr 2017 00:00:00 +0530</pubDate>
-        <link>https://saru.ml/blogs/2017/04/26/plant-village-dataset.html</link>
-        <guid isPermaLink="true">https://saru.ml/blogs/2017/04/26/plant-village-dataset.html</guid>
+        <link>http://localhost:4000/blogs/2017/04/26/plant-village-dataset.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/2017/04/26/plant-village-dataset.html</guid>
         
         <category>machine-learning</category>
         
@@ -151,8 +151,8 @@ order just like other tree implementations.
 &lt;p&gt;Link: &lt;a href=&quot;https://code.google.com/archive/p/judyarray/&quot;&gt;https://code.google.com/archive/p/judyarray/&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Jan 2017 00:00:00 +0530</pubDate>
-        <link>https://saru.ml/blogs/2017/01/18/judy-arrays.html</link>
-        <guid isPermaLink="true">https://saru.ml/blogs/2017/01/18/judy-arrays.html</guid>
+        <link>http://localhost:4000/blogs/2017/01/18/judy-arrays.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/2017/01/18/judy-arrays.html</guid>
         
         <category>core-cs</category>
         
