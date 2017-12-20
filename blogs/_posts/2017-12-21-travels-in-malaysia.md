@@ -20,7 +20,7 @@ Here's a picture of me(with a really pathetic expression) swimming on the 51st f
 
 ### Kota Kinabalu
 
-The journey began by flying to Kota Kinabalu from Bangalore via Kuala Lumpur. Kota Kinabalu is a small city located in the Eastern part of Malaysia called Sabah. The day we landed here, it was pouring so heavily that you could literally observe the overpowering silence created by the massive smashing of rain to the ground. The city came across to me as sort of a _retirement paradise_. Pleasant weather, modern architecture, good restaurants/bars and picturesque islands at a stones throw distance. Overall, it had a very laidback feel attached to it. I'd definitely settle here if I plan on taking a pause from life. Philosophical notions aside, Kota Kinabalu has umpteen number of speed boat services that ply from the <a href="https://goo.gl/maps/W6BcrpiMJL22">Jesselton Jetty Point</a> to a number of islands such as Manukan, Gaya, Sulug, Mamutik, and many more. You could either charter a boat and hop around all of them or hitch a service to any one of them. We zeroed-in on Manukan and tried out some snorkeling for the very first time. These pictures should give an idea of how serene the nature looks when the sand is white and sky is filled with clouds.
+The journey began by flying to Kota Kinabalu from Bangalore via Kuala Lumpur. Kota Kinabalu is a small city located in the Eastern part of Malaysia called Sabah. The day we landed here, it was pouring so heavily that you could literally observe the overpowering silence created by the massive smashing of rain to the ground. The city came across to me as sort of a _retirement paradise_. Pleasant weather, modern architecture, good restaurants/bars and picturesque islands at a stones throw distance. Overall, it had a very laidback feel attached to it. I'd definitely settle here if I plan on taking a pause from life. Philosophical notions aside, Kota Kinabalu has umpteen number of speed boat services that ply from the <a href="https://goo.gl/maps/W6BcrpiMJL22">Jesselton Jetty Point</a> to a number of islands such as Manukan, Gaya, Sulug, Mamutik, and many more. You could either charter a boat and hop around all of them or hitch a service to any one of them. We zeroed-in on Manukan and tried out some snorkeling for the very first time. These pictures should give an idea of how serene the nature looks when the sand is smooth, sky is filled with clouds and the horizon is within the range of your eyes.
 
 <p align="center">
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/lgcb9pgriqj5rhy/Photo%2017-10-17%2C%206%2008%2040%20PM%20%281%29.jpg?dl=0" />
@@ -74,7 +74,7 @@ Next, we moved our bodies to Langkawi. Traveling via a sea-ferry that I'd easily
 
 ### Langkawi
 
-Langkawi is probably the third most popular tourist destination in Malaysia after Kuala Lumpur and Tioman Island. We had to visit this place. Langkawi is split into 2 parts - <a href="https://goo.gl/maps/ega3eLsMctu"/>Kuah</a> and <a href="https://goo.gl/maps/Ec4WkwvpMYr">Pantai Cenang</a>. We made a huge mistake by booking our accommodation in Kuah. Even though it was a lovely place, it was far from popular places such as the Langkawi SkyBridge, beaches of Pantai Cenang and various duty-free areas. Regardless, we hung around at Pantai Cenang most of the time. The preponderance of beach stretches in Pentai Cenang was soul-touching. Clean beaches with shacks for cheap food and drinks, make-shift counters for trying out adventure sports, scenic sunset, refreshing sea breezes and an equally satisfying weather won us over despite Langkawi being flooded with tourists. Below, are the pictures of our accommodation with an infinity pool overlooking the sea and some views from the SkyBridge.
+Langkawi is probably the third most popular tourist destination in Malaysia after Kuala Lumpur and Tioman Island. We had to visit this place. Langkawi is split into 2 parts - <a href="https://goo.gl/maps/ega3eLsMctu">Kuah</a> and <a href="https://goo.gl/maps/Ec4WkwvpMYr">Pantai Cenang</a>. We made a huge mistake by booking our accommodation in Kuah. Even though it was a lovely place, it was far from popular places such as the Langkawi SkyBridge, beaches of Pantai Cenang and various duty-free areas. Regardless, we hung around at Pantai Cenang most of the time. The preponderance of beach stretches in Pentai Cenang was soul-touching. Clean beaches with shacks for cheap food and drinks, make-shift counters for trying out adventure sports, scenic sunset, refreshing sea breezes and an equally satisfying weather won us over despite Langkawi being flooded with tourists. Below, are the pictures of our accommodation with an infinity pool overlooking the sea and some views from the SkyBridge.
 
 <p align="center">
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/nfuss2hn57o9zk9/Photo%2020-10-17%2C%2010%2043%2021%20AM.jpg?dl=0" />
@@ -82,4 +82,26 @@ Langkawi is probably the third most popular tourist destination in Malaysia afte
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/7sw2tphwrzehhlb/Photo%2020-10-17%2C%202%2059%2021%20PM.jpg?dl=0" />
 <br /><br />
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/70gxkni8f5yzszo/Photo%2020-10-17%2C%203%2030%2023%20PM.jpg?dl=0" />
+</p>
+
+The absolutely best part about visiting Langkawi was renting out a speed boat to visit places such as the <a href="https://www.google.co.in/search?q=pregnant+lady+island+langkawi&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjfn8PV_5jYAhULro8KHUTeCKYQsAQIJg&biw=1280&bih=703">Pregnant Lady Island</a>, a lake where we encountered a creature similar to a Komodo Dragon, feeding the eagles in middle of the sea and relaxing at the most breathtaking beach that I've ever come across, the <a href="https://goo.gl/maps/HhubkLfeCdU2">Pulua Beras Basah</a> beach. This beach was literally pre-occupied by only about a dozen people when we arrived here. The water was crystal clear, the sand was white and you could see monkeys chilling next to your beach mat. The sea was just ankle-deep for about a 100 meters. You could also see ducks and swans drinking water and catching their meals from the sea. The island was pretty small though. Nothing much happened around here and we soon left after relaxing here for a bit.
+
+<p align="center">
+<img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/ru0adl6s2w614j6/Photo%2021-10-17%2C%205%2003%2035%20PM.jpg?dl=0" />
+<br /><br />
+<img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/i91tuihsqi1awi9/Photo%2021-10-17%2C%207%2015%2007%20PM.jpg?dl=0" />
+<br /><br />
+<img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/4j4cojq6ffy1neg/Photo%2021-10-17%2C%202%2019%2020%20PM.jpg?dl=0" />
+<br /><br />
+<img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/wdctb8h55wczu9a/Photo%2021-10-17%2C%203%2020%2012%20PM.jpg?dl=0" />
+<br /><br />
+<img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/fp3j7enuefdkcww/Photo%2021-10-17%2C%202%2026%2050%20PM.jpg?dl=0" />
+</p>
+
+After Langkawi, we spent a day in Kuala Lumpur before heading back to Bangalore. I'm not that excited to articulate my KL experience as it was pretty generic. Well, what can I say? City travel and nightlife seem quite meaningless to me. But we did visit some places such as the <a href="https://www.klbirdpark.com/">KL Bird Park</a>, <a href="https://www.menarakl.com.my/">KL Tower</a>, the famous <a href="http://vcr.my/">VCR bakery</a> and just walked around KLCC grabbing a bear and exploring the city. On a funny note, I developed a sugar rush which spoilt my entire night. Well, we liked VCR so much that we ended up ordering (and then eating) everything on the menu.
+
+Embracing all the experiences collectively, I must say, it was a pretty solid trip that one can take using his savings from college. I enjoyed thoroughly and developed maturity as a traveller. My subsequent trips would follow a _"Skip the cities. Embrace the nature."_ approach. My next destination would be Vancouver. Let's see how that turns out. Signing off with a Korean Bing Su that we devoured in Langkawi. Ciao!
+
+<p align="center">
+<img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/sgj97ctuqv1hcul/Photo%2020-10-17%2C%201%2017%2040%20PM.jpg?dl=0" />
 </p>
