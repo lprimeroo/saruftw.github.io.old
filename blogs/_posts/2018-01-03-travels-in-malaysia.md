@@ -51,9 +51,9 @@ The next day, I bid adieu to the most mellow city I've been to and boarded a fli
 Penang is an old city with a load of historical backing. Penang isn't as exciting as other places and is more of a family destination. Definitely, not meant for explorers or people who're on a relaxed vacation. Won't ramble much about Penang, since there wasn't anything awe-striking to witness here. Regardless of that, we had a lot of fun renting out <a href="https://www.linkbike.my/">bikes</a> and exploring <a href="https://goo.gl/maps/B5x4SCHCH6S2">George Town</a>. Apart from that, we also visited the <a href="https://goo.gl/maps/RZwkoPc5HPM2">Penang Hill</a> and the infamous <a href="https://www.google.co.in/search?q=love+lane+georgetown&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjEuaLn2pjYAhXLpo8KHTXvATAQ_AUICygC&biw=1280&bih=703">Love Lane</a> (at night!). The most exhilarating part of my stay here was my AirBnB accommodation. Simply magnificent. Have a look at the pictures and feel free to judge.
 
 <p align="center">
-<img style="max-width: 40%; transform: rotate(90deg);" src="https://dl.dropboxusercontent.com/s/vbbr731styfl8xi/Photo%2018-10-17%2C%202%2051%2031%20PM.jpg?dl=0" />
+<img style="max-width: 80%; transform: rotate(90deg);" src="https://dl.dropboxusercontent.com/s/vbbr731styfl8xi/Photo%2018-10-17%2C%202%2051%2031%20PM.jpg?dl=0" />
 <br /><br />
-<img style="max-width: 40%; transform: rotate(90deg);" src="https://dl.dropboxusercontent.com/s/01bp3cin065s1ds/Photo%2020-10-17%2C%204%2023%2049%20AM.jpg?dl=0" />
+<img style="max-width: 80%; transform: rotate(90deg);" src="https://dl.dropboxusercontent.com/s/01bp3cin065s1ds/Photo%2020-10-17%2C%204%2023%2049%20AM.jpg?dl=0" />
 <br /><br />
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/yom22hwsidhndyw/Photo%2019-10-17%2C%2012%2023%2026%20PM.jpg?dl=0" />
 <br /><br />
@@ -63,7 +63,7 @@ Penang is an old city with a load of historical backing. Penang isn't as excitin
 <br /><br />
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/ljgkifz9v89td4n/Photo%2019-10-17%2C%201%2030%2032%20PM%20%281%29.jpg?dl=0" />
 <br /><br />
-<img style="max-width: 40%; transform: rotate(90deg);" src="https://dl.dropboxusercontent.com/s/py0kzuldqr4oeuz/Photo%2019-10-17%2C%207%2045%2021%20AM.jpg?dl=0" />
+<img style="max-width: 80%; transform: rotate(90deg);" src="https://dl.dropboxusercontent.com/s/py0kzuldqr4oeuz/Photo%2019-10-17%2C%207%2045%2021%20AM.jpg?dl=0" />
 <br /><br />
 <img style="max-width: 80%;" src="https://dl.dropboxusercontent.com/s/ktxa6ftzc254fy9/Photo%2019-10-17%2C%207%2049%2010%20AM.jpg?dl=0" />
 </p>
