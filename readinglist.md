@@ -12,6 +12,8 @@ permalink: /readinglist/
 	<strong>2018</strong>
 </p>
 
+* <a href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021">Principles: Life and Work</a>, by Ray Dalio
+
 * <a href="https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_1?ie=UTF8&qid=1513524775&sr=8-1&keywords=leonardo+da+vinci+walter+isaacson">Leonardo da Vinci</a>, by Walter Isaacson
 
 * <a href="https://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994/ref=sr_1_1?ie=UTF8&qid=1512822995&sr=8-1&keywords=what+if">What If?: Serious Scientific Answers to Absurd Hypothetical Questions</a>, by Randall Munroe
