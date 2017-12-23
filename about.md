@@ -24,3 +24,7 @@ permalink: /about/
 	<a href="#">sketch</a>, <a href="#">play the guitar</a> and <a href="https://www.instagram.com/saruftw/">travel</a>.<br /><br />
 	Always up for new and interesting collaborations or opportunities.
 </p>
+
+<p align="center">
+<a class="twitter-timeline" data-lang="en" data-width="400" data-height="500" data-theme="light" data-link-color="#19CF86" href="https://twitter.com/saruftw?ref_src=twsrc%5Etfw">Tweets by saruftw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
