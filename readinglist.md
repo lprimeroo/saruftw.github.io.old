@@ -16,11 +16,11 @@ permalink: /readinglist/
 
 * <a href="https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_1?ie=UTF8&qid=1513524775&sr=8-1&keywords=leonardo+da+vinci+walter+isaacson">Leonardo da Vinci</a>, by Walter Isaacson
 
-* <a href="https://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994/ref=sr_1_1?ie=UTF8&qid=1512822995&sr=8-1&keywords=what+if">What If?: Serious Scientific Answers to Absurd Hypothetical Questions</a>, by Randall Munroe
+* <a href="https://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994/ref=sr_1_1?ie=UTF8&qid=1512822995&sr=8-1&keywords=what+if">What If?</a>, by Randall Munroe
 
 * <a href="https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X/ref=sr_1_1?ie=UTF8&qid=1512475959&sr=8-1&keywords=mans+search+for+meaning">Man's Search for Meaning</a>, by Viktor E. Frankl
 
-* <a href="https://www.amazon.com/Pandoras-Lab-Seven-Stories-Science/dp/1426217986/ref=sr_1_1?s=books&ie=UTF8&qid=1512240637&sr=1-1&keywords=pandoras+lab">Pandora's Lab: Seven Stories of Science Gone Wrong</a>, by Paul A. Offit
+* <a href="https://www.amazon.com/Pandoras-Lab-Seven-Stories-Science/dp/1426217986/ref=sr_1_1?s=books&ie=UTF8&qid=1512240637&sr=1-1&keywords=pandoras+lab">Pandora's Lab</a>, by Paul A. Offit
 
 * <a href="https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/ref=sr_1_1?ie=UTF8&qid=1512240567&sr=8-1&keywords=1984">1984</a>, by George Orwell
 
@@ -42,7 +42,7 @@ permalink: /readinglist/
 
 * <a href="https://www.amazon.com/Brain-Story-You-David-Eagleman/dp/0525433449/ref=sr_1_1?ie=UTF8&qid=1499618721&sr=8-1&keywords=The+Brain%3A+The+Story+of+You">The Brain: The Story of You</a>, by David Eagleman
 
-* <a href="https://www.amazon.com/Mossad-Greatest-Missions-Israeli-Service/dp/0062123416/ref=sr_1_1?ie=UTF8&qid=1499618790&sr=8-1&keywords=Mossad%3A+The+Greatest+Missions+of+the+Israeli+Secret+Service">Mossad: The Greatest Missions of the Israeli Secret Service</a>, by Michael Bar-Zohar, Nissim Mishal
+* <a href="https://www.amazon.com/Mossad-Greatest-Missions-Israeli-Service/dp/0062123416/ref=sr_1_1?ie=UTF8&qid=1499618790&sr=8-1&keywords=Mossad%3A+The+Greatest+Missions+of+the+Israeli+Secret+Service">Mossad</a>, by Michael Bar-Zohar, Nissim Mishal
 
 * <a href="https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway/dp/0684801221/ref=sr_1_1?ie=UTF8&qid=1499619002&sr=8-1&keywords=The+Old+Man+and+the+Sea">The Old Man and the Sea</a>, by Ernest Hemingway
 
@@ -56,7 +56,7 @@ permalink: /readinglist/
 
 * <a href="https://www.amazon.com/Last-Lecture-Randy-Pausch/dp/1401323251/ref=sr_1_1?ie=UTF8&qid=1499618839&sr=8-1&keywords=The+Last+Lecture">The Last Lecture</a>, by Randy Pausch
 
-* <a href="https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1499618662&sr=8-1&keywords=Zero+to+One%3A+Notes+on+Startups%2C+or+How+to+Build+the+Future">Zero to One: Notes on Startups, or How to Build the Future</a>, by  Peter Thiel, Blake Masters
+* <a href="https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1499618662&sr=8-1&keywords=Zero+to+One%3A+Notes+on+Startups%2C+or+How+to+Build+the+Future">Zero to One</a>, by  Peter Thiel, Blake Masters
 
 * <a href="https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041/ref=sr_1_1?ie=UTF8&qid=1499617976&sr=8-1&keywords=Surely+You%27re+Joking%2C+Mr.+Feynman%21%3A+Adventures+of+a+Curious+Character">Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character</a>, by Richard P. Feynman
 
