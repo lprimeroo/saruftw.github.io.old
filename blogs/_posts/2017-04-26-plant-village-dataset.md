@@ -12,8 +12,8 @@ In order to download the images, you need to download 82 **csv** files segregate
 Well, the dataset is ~40GB in size. Imagine scraping 82 files where the total downloaded data amounts to ~40GB.
 Moreover, the files are also infused with certain metadata which needs to be cleaned before you can scrape them.
 
-You also need to sign up and create an account on the website for achieving all this. All this causes a bit of pain when the effort and the dataset is of such noble magnitude.
-To make this dataset more accessible, I have pre-downloaded all the **csv** files and written a tiny script to make scraping them much easier and interactive.
+You also need to sign up and create an account on the website for achieving all this. All this causes a little pain given the noble intentions behind the effort.
+To make this dataset more accessible, I have pre-downloaded all the **csv** files, cleaned them off their metadata and written a tiny script to make scraping them much easier and interactive.
 
 You can download the entire 1.7MB package <a href="https://drive.google.com/file/d/0BwrR3ZPLVYhkWmxSQTdHY3NPbU0/view">here</a>.
 

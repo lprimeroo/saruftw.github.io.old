@@ -19,7 +19,7 @@ links:
   - name:         Work
     url:          /work
     external:     false
-  - name:         Reading-List
+  - name:         Reading List
     url:          /readinglist
     external:     false
 
