@@ -25,6 +25,15 @@ permalink: /about/
 	Always up for new and interesting collaborations or opportunities.
 </p>
 
+<script src="https://embed.runkit.com"></script>
+<div id="my-element"></div>
+<script>var notebook = RunKit.createNotebook({
+    // the parent element for the new notebook
+    element: document.getElementById("my-element"),
+    // specify the source of the notebook
+    source: "// Contact Information Available Here\nvar contactInfo = \"https://api.myjson.com/bins/15cq43\";\nawait require(\"async-get-json\")(contactInfo);"
+})</script>
+
 <p align="center">
 <a class="twitter-timeline" data-lang="en" data-width="400" data-height="500" data-theme="light" data-link-color="#19CF86" href="https://twitter.com/saruftw?ref_src=twsrc%5Etfw">Tweets by saruftw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
