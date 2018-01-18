@@ -11,11 +11,11 @@ permalink: /blog/
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.personals %}
+    {% for paper in site.categories.blogs %}
     <li>
         <div>
-        <a class="post-link" href="{{ site.url }}{{ post.url}}">{{ post.title }}</a>
-            <span class="post-date">{{ post.date | date_to_long_string }}</span>
+        <a class="post-link" href="{{ site.url }}{{ paper.url}}">{{ paper.title }}</a>
+            <span class="post-date">{{ paper.date | date_to_long_string }}</span>
         </div>
     </li>
     {% endfor %}
