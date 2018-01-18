@@ -10,11 +10,11 @@ layout: main
     </div>
 
   <ul class="post-list">
-    {% for blog in site.categories.blogs %}
+    {% for post in site.posts %}
     <li>
         <div>
-        <a class="post-link" href="{{ site.url }}{{ blog.url}}">{{ blog.title }}</a>
-            <span class="post-date">{{ blog.date | date_to_long_string }}</span>
+        <a class="post-link" href="{{ site.url }}{{ post.url}}">{{ post.title }}</a>
+            <span class="post-date">{{ post.date | date_to_long_string }}</span>
         </div>
     </li>
     {% endfor %}
