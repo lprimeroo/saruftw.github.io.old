@@ -13,6 +13,9 @@ google_analytics: true #if set to "true" modify the google_analytycs.html, set t
 links:
   - name:         Home
     url:          /
+  - name:         Blog
+    url:          /blog
+    external:     false
   - name:         About
     url:          /about
     external:     false
