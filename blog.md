@@ -4,10 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-<p align="center">
-  I like to read and explain research clearly. My interpretations of the various conundrums involved in AI research can be found in this section.
-</p>
-
 <div class="home">
 
   <ul class="post-list">
