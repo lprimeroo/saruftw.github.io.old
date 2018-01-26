@@ -12,6 +12,8 @@ permalink: /readinglist/
 	<strong>2018</strong>
 </p>
 
+* <a href="https://www.amazon.com/Admissions-Life-as-Brain-Surgeon/dp/1250127262/ref=sr_1_1?ie=UTF8&qid=1516972960&sr=8-1&keywords=admissions">Admissions: Life as a Brain Surgeon</a>, by Henry Marsh
+
 * <a href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021">Principles: Life and Work</a>, by Ray Dalio
 
 * <a href="https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_1?ie=UTF8&qid=1513524775&sr=8-1&keywords=leonardo+da+vinci+walter+isaacson">Leonardo da Vinci</a>, by Walter Isaacson
