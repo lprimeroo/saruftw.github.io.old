@@ -18,7 +18,7 @@ permalink: /about/
 	<h3>Highlights</h3>
 
 	<ul>
-	<li><strong>May 2018:</strong> Attending <a href="https://chapel-lang.org/CHIUW2018-cfp.html">CHIUW</a> at <a href="http://www.ipdps.org/">IPDPS</a></li>
+	<li>May 2018:  Attending <a href="https://chapel-lang.org/CHIUW2018-cfp.html">CHIUW</a> at <a href="http://www.ipdps.org/">IPDPS</a></li>
 	</ul>
 	<br />
 	<br />
