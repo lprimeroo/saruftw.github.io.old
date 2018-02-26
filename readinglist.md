@@ -12,6 +12,9 @@ permalink: /readinglist/
 	<strong>2018</strong>
 </p>
 
+
+* <a href="https://www.amazon.com/Clapton-Autobiography-Eric/dp/038551851X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1519649164&sr=1-1">Eric Clapton: The Autobiography</a>, by Eric Clapton
+
 * <a href="https://www.amazon.com/Admissions-Life-as-Brain-Surgeon/dp/1250127262/ref=sr_1_1?ie=UTF8&qid=1516972960&sr=8-1&keywords=admissions">Admissions: Life as a Brain Surgeon</a>, by Henry Marsh
 
 * <a href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021">Principles: Life and Work</a>, by Ray Dalio
