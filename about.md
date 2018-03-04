@@ -8,8 +8,8 @@ permalink: /about/
 	<h3>Highlights</h3>
 
 	<ul>
-	<li>May 2018:  Attending <a href="https://chapel-lang.org/CHIUW2018-cfp.html">CHIUW</a> at <a href="http://www.ipdps.org/">IPDPS</a></li>
-	<li>June 2017:  Selected for <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> to work with <a href="https://chapel-lang.org/">Chapel</a>.</li>
+	<li><u>May 2018</u>:  Attending <a href="https://chapel-lang.org/CHIUW2018-cfp.html">CHIUW</a> at <a href="http://www.ipdps.org/">IPDPS</a>.</li>
+	<li><u>June 2017</u>:  Selected for <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> to work with <a href="https://chapel-lang.org/">Chapel</a>.</li>
 	</ul>
 	<br />
 	Currently, working at <a href="https://hackerrank.com/work">HackerRank</a>. Always up for new and interesting collaborations or opportunities.
