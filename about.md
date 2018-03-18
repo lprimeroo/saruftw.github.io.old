@@ -12,12 +12,13 @@ permalink: /about/
 	<li><u>June 2017</u>:  Selected for <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> to work with <a href="https://chapel-lang.org/">Chapel</a>.</li>
 	</ul>
 	<br />
-	Currently, working at <a href="https://hackerrank.com/work">HackerRank</a>. Always up for new and interesting collaborations or opportunities.
+	
 	
 	<br />
-	<br />
-	<br />
-	<h3>Work</h3>
-	
-	Most of my work is open-sourced and can be found on my <a href="https://github.com/saru95">Github</a>.
+	<ul>
+	</i>Currently, working at <a href="https://hackerrank.com/work">HackerRank</a></li>
+	<li>Most of my work is open-sourced and can be found on my <a href="https://github.com/saru95">Github</a>.</li>
+	<li>I also <a href="https://steamcommunity.com/id/rgbimbochamp/">game</a> quite often.</li>
+	<li></li>
+	</ul>
 </p>
