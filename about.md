@@ -16,9 +16,8 @@ permalink: /about/
 	
 	<br />
 	<ul>
-	</i>Currently, working at <a href="https://hackerrank.com/work">HackerRank</a></li>
+	<li>Currently, working at <a href="https://hackerrank.com/work">HackerRank</a></li>
 	<li>Most of my work is open-sourced and can be found on my <a href="https://github.com/saru95">Github</a>.</li>
 	<li>I also <a href="https://steamcommunity.com/id/rgbimbochamp/">game</a> quite often.</li>
-	<li></li>
 	</ul>
 </p>
