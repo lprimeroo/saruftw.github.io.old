@@ -12,6 +12,9 @@ permalink: /readinglist/
 	<strong>2018</strong>
 </p>
 
+* <a href="https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?s=books&ie=UTF8&qid=1525172248&sr=1-1&keywords=the+subtle+art+of+not+giving+a+f---+mark+manson&dpID=51VNlzbfpXL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">The Subtle Art of Not Giving a F*ck</a>, by Mark Manson
+
+* <a href="https://www.amazon.com/Elephants-Acid-Bizarre-Experiments-Original/dp/0156031353/ref=sr_1_1?ie=UTF8&qid=1525172145&sr=8-1&keywords=elephants+on+acid&dpID=51iZLsCwpDL&preST=_SY344_BO1,204,203,200_QL70_&dpSrc=srch">Elephants on Acid</a>, by Alex Boese
 
 * <a href="https://www.amazon.com/Clapton-Autobiography-Eric/dp/038551851X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1519649164&sr=1-1">Eric Clapton: The Autobiography</a>, by Eric Clapton
 
