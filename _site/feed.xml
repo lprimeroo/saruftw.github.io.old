@@ -4,265 +4,11 @@
     <title>Home of Sarthak</title>
     <description>Home of Sarthak
 </description>
-    <link>https://saru.ml/</link>
-    <atom:link href="https://saru.ml/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Jun 2018 05:43:15 +0530</pubDate>
-    <lastBuildDate>Sat, 02 Jun 2018 05:43:15 +0530</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Dec 2017 16:37:41 +0530</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2017 16:37:41 +0530</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
-    
-      <item>
-        <title>Testing LaTex within Jekyll's Markdown</title>
-        <description>&lt;p&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;±&lt;/mo&gt;&lt;msqrt&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;/msqrt&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;
-c = \pm\sqrt{a^2 + b^2}
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.913389em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:1.04em;vertical-align:-0.12661100000000003em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;±&lt;/span&gt;&lt;span class=&quot;mord sqrt&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist svg-align&quot; style=&quot;height:0.913389em;&quot;&gt;&lt;span style=&quot;top:-3em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot; style=&quot;padding-left:0.833em;&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.740108em;&quot;&gt;&lt;span style=&quot;top:-2.9890000000000003em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mathrm mtight&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mbin&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.740108em;&quot;&gt;&lt;span style=&quot;top:-2.9890000000000003em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mathrm mtight&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.873389em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;height:1em;&quot;&gt;&lt;svg width=&quot;100%&quot; height=&quot;1em&quot;&gt;
-            &lt;svg viewBox=&quot;0 0 400000 1000&quot; preserveAspectRatio=&quot;xMinYMin slice&quot;&gt;&lt;path d=&quot;M95 622c-2.667 0-7.167-2.667-13.5 -8S72 604 72 600c0-2 .333-3.333 1-4 1.333-2.667 23.833-20.667 67.5-54s 65.833-50.333 66.5-51c1.333-1.333 3-2 5-2 4.667 0 8.667 3.333 12 10l173 378c.667 0 35.333-71 104-213s137.5-285 206.5-429S812 17.333 812 14c5.333 -9.333 12-14 20-14h399166v40H845.272L620 507 385 993c-2.667 4.667-9 7-19 7-6 0-10-1-12-3L160 575l-65 47zM834 0h399166v40H845z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.12661100000000003em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;±&lt;/mo&gt;&lt;msqrt&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;/msqrt&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;
-c = \pm\sqrt{a^2 + b^2}
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1.0622639999999999em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:1.2399999999999998em;vertical-align:-0.177736em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;±&lt;/span&gt;&lt;span class=&quot;mord sqrt&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist svg-align&quot; style=&quot;height:1.0622639999999999em;&quot;&gt;&lt;span style=&quot;top:-3.2em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3.2em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot; style=&quot;padding-left:1em;&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.740108em;&quot;&gt;&lt;span style=&quot;top:-2.9890000000000003em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mathrm mtight&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mbin&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.740108em;&quot;&gt;&lt;span style=&quot;top:-2.9890000000000003em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mathrm mtight&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-3.0222640000000003em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3.2em;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;height:1.2em;&quot;&gt;&lt;svg width=&quot;100%&quot; height=&quot;1.2em&quot;&gt;
-            &lt;svg viewBox=&quot;0 0 400000 1200&quot; preserveAspectRatio=&quot;xMinYMin slice&quot;&gt;&lt;path d=&quot;M263 601c.667 0 18 39.667 52 119s68.167  158.667 102.5 238 51.833 119.333 52.5 120C810 373.333 980.667 17.667 982 11 c4.667-7.333 11-11 19-11h398999v40H1012.333L741 607c-38.667 80.667-84 175-136  283s-89.167 185.333-111.5 232-33.833 70.333-34.5 71c-4.667 4.667-12.333 7-23  7l-12-1-109-253c-72.667-168-109.333-252-110-252-10.667 8-22 16.667-34 26-22  17.333-33.333 26-34 26l-26-26 76-59 76-60zM1001 0h398999v40H1012z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.177736em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mo fence=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mo fence=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mo fence=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mo fence=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;
-( \big( \Big( \bigg( \Bigg(
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1.75em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:3.0000299999999998em;vertical-align:-1.25003em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;delimsizing size1&quot;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;delimsizing size2&quot;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;delimsizing size3&quot;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;delimsizing size4&quot;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mrow&gt;&lt;mo fence=&quot;true&quot;&gt;∥&lt;/mo&gt;&lt;mtable&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;mo fence=&quot;true&quot;&gt;∥&lt;/mo&gt;&lt;/mrow&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;
-\begin{Vmatrix}
-   a &amp;amp; b \\
-   c &amp;amp; d
-\end{Vmatrix}
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1.47398em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:2.424em;vertical-align:-0.9500199999999999em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;minner&quot;&gt;&lt;span class=&quot;mopen&quot;&gt;&lt;span class=&quot;delimsizing mult&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.47398em;&quot;&gt;&lt;span style=&quot;top:-1.65598em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.606em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;delimsizinginner delim-size1&quot;&gt;&lt;span&gt;∥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.26198em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.606em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;delimsizinginner delim-size1&quot;&gt;&lt;span&gt;∥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.86798em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.606em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;delimsizinginner delim-size1&quot;&gt;&lt;span&gt;∥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-3.47398em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.606em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;delimsizinginner delim-size1&quot;&gt;&lt;span&gt;∥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.9500199999999999em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mtable&quot;&gt;&lt;span class=&quot;col-align-c&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.45em;&quot;&gt;&lt;span style=&quot;top:-3.61em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;a&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.4099999999999997em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;c&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.9500000000000004em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;arraycolsep&quot; style=&quot;width:0.5em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;arraycolsep&quot; style=&quot;width:0.5em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;col-align-c&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.45em;&quot;&gt;&lt;span style=&quot;top:-3.61em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;b&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.4099999999999997em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;d&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.9500000000000004em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;&lt;span class=&quot;delimsizing mult&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.47398em;&quot;&gt;&lt;span style=&quot;top:-1.65598em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.606em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;delimsizinginner delim-size1&quot;&gt;&lt;span&gt;∥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.26198em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.606em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;delimsizinginner delim-size1&quot;&gt;&lt;span&gt;∥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.86798em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.606em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;delimsizinginner delim-size1&quot;&gt;&lt;span&gt;∥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-3.47398em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.606em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;delimsizinginner delim-size1&quot;&gt;&lt;span&gt;∥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.9500199999999999em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mrow&gt;&lt;mo fence=&quot;true&quot;&gt;{&lt;/mo&gt;&lt;mtable&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mtext&gt;if &lt;/mtext&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mtext&gt;if &lt;/mtext&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/mrow&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;
-x = \begin{cases}
-   a &amp;amp;\text{if } b  \\
-   c &amp;amp;\text{if } d
-\end{cases}
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1.75em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:3.0000299999999998em;vertical-align:-1.25003em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;minner&quot;&gt;&lt;span class=&quot;mopen delimcenter&quot; style=&quot;top:0em;&quot;&gt;&lt;span class=&quot;delimsizing size4&quot;&gt;{&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mtable&quot;&gt;&lt;span class=&quot;col-align-l&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.69em;&quot;&gt;&lt;span style=&quot;top:-3.69em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3.008em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;a&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.25em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3.008em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;c&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.19em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;arraycolsep&quot; style=&quot;width:1em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;col-align-l&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.69em;&quot;&gt;&lt;span style=&quot;top:-3.69em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3.008em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord text&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;if &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;b&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.25em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3.008em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord text&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;if &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;d&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.19em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mclose nulldelimiter&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mstyle mathcolor=&quot;blue&quot;&gt;&lt;mi&gt;F&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;/mstyle&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;
-\textcolor{blue}{F=ma}
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.68333em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:0.68333em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.13889em;color:blue;&quot;&gt;F&lt;/span&gt;&lt;span class=&quot;mrel&quot; style=&quot;color:blue;&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;color:blue;&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;color:blue;&quot;&gt;a&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;true&quot;&gt;&lt;munderover&gt;&lt;mo&gt;∑&lt;/mo&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/munderover&gt;&lt;/mstyle&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;
-\displaystyle\sum_{i=1}^n
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1.6513970000000002em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:2.929066em;vertical-align:-1.277669em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mop op-limits&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.6513970000000002em;&quot;&gt;&lt;span style=&quot;top:-1.872331em;margin-left:0em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3.05em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathit mtight&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;mrel mtight&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mord mathrm mtight&quot;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-3.050005em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3.05em;&quot;&gt;&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;mop op-symbol large-op&quot;&gt;∑&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-4.3000050000000005em;margin-left:0em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3.05em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mathit mtight&quot;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.277669em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo&gt;⋏&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;
-\curlywedge
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.54986em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:0.54986em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord amsrm&quot;&gt;⋏&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtable&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;false&quot;&gt;&lt;mrow&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;
-\begin{array}{c|c}
-   a &amp;amp; b \\
-   c &amp;amp; d
-\end{array}
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1.45em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:2.4000000000000004em;vertical-align:-0.9500000000000004em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mtable&quot;&gt;&lt;span class=&quot;arraycolsep&quot; style=&quot;width:0.5em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;col-align-c&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.45em;&quot;&gt;&lt;span style=&quot;top:-3.61em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;a&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.4099999999999997em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;c&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.9500000000000004em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;arraycolsep&quot; style=&quot;width:0.5em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;vertical-separator&quot; style=&quot;height:2.4em;vertical-align:-0.95em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;arraycolsep&quot; style=&quot;width:0.5em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;col-align-c&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.45em;&quot;&gt;&lt;span style=&quot;top:-3.61em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;b&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.4099999999999997em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;d&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.9500000000000004em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;arraycolsep&quot; style=&quot;width:0.5em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 14 Mar 2018 00:00:00 +0530</pubDate>
-        <link>https://saru.ml/blogs/2018/03/14/latex-jekyll.html</link>
-        <guid isPermaLink="true">https://saru.ml/blogs/2018/03/14/latex-jekyll.html</guid>
-        
-        <category>latex</category>
-        
-        
-        <category>blogs</category>
-        
-      </item>
-    
-      <item>
-        <title>Deep Learning Jargons in 5 lines or less</title>
-        <description>&lt;h3 id=&quot;neural-network&quot;&gt;Neural Network&lt;/h3&gt;
-
-&lt;p&gt;Consider an expression &lt;code class=&quot;highlighter-rouge&quot;&gt;ax + by + cz&lt;/code&gt;. Assume&lt;/p&gt;
-
-&lt;h3 id=&quot;cost-function&quot;&gt;Cost Function&lt;/h3&gt;
-
-&lt;h3 id=&quot;gradient-descent&quot;&gt;Gradient Descent&lt;/h3&gt;
-
-&lt;h3 id=&quot;backpropogation&quot;&gt;Backpropogation&lt;/h3&gt;
-
-&lt;h3 id=&quot;convolution&quot;&gt;Convolution&lt;/h3&gt;
-
-&lt;h3 id=&quot;pooling&quot;&gt;Pooling&lt;/h3&gt;
-
-&lt;h3 id=&quot;activation&quot;&gt;Activation&lt;/h3&gt;
-
-&lt;h3 id=&quot;convolutional-neural-networks&quot;&gt;Convolutional Neural Networks&lt;/h3&gt;
-
-&lt;h3 id=&quot;imagenet&quot;&gt;Imagenet&lt;/h3&gt;
-
-&lt;h3 id=&quot;alexnet-zfnet-vgg&quot;&gt;AlexNet, ZFNet, VGG&lt;/h3&gt;
-
-&lt;h3 id=&quot;resnet&quot;&gt;Resnet&lt;/h3&gt;
-
-&lt;h3 id=&quot;inception&quot;&gt;Inception&lt;/h3&gt;
-
-&lt;h3 id=&quot;encoding-decoding&quot;&gt;Encoding-Decoding&lt;/h3&gt;
-
-&lt;h3 id=&quot;recurrent-neural-networks&quot;&gt;Recurrent Neural Networks&lt;/h3&gt;
-
-&lt;h3 id=&quot;long-short-term-memory-networks&quot;&gt;Long Short Term Memory Networks&lt;/h3&gt;
-
-&lt;h3 id=&quot;seq2seq&quot;&gt;seq2seq&lt;/h3&gt;
-
-&lt;h3 id=&quot;generative-models&quot;&gt;Generative Models&lt;/h3&gt;
-
-&lt;h3 id=&quot;autoencoders&quot;&gt;Autoencoders&lt;/h3&gt;
-
-&lt;h3 id=&quot;variational-autoencoders&quot;&gt;Variational Autoencoders&lt;/h3&gt;
-
-&lt;h3 id=&quot;generative-adversarial-networks&quot;&gt;Generative Adversarial Networks&lt;/h3&gt;
-
-</description>
-        <pubDate>Fri, 09 Mar 2018 00:00:00 +0530</pubDate>
-        <link>https://saru.ml/tech/2018/03/09/dl-jargons-5-lines-or-less.html</link>
-        <guid isPermaLink="true">https://saru.ml/tech/2018/03/09/dl-jargons-5-lines-or-less.html</guid>
-        
-        <category>deep-learning</category>
-        
-        <category>jargons</category>
-        
-        <category>activation</category>
-        
-        <category>convolution</category>
-        
-        <category>neural-networks</category>
-        
-        <category>models</category>
-        
-        <category>imagenet</category>
-        
-        <category>seq2seq</category>
-        
-        <category>autoencoder</category>
-        
-        
-        <category>tech</category>
-        
-      </item>
-    
-      <item>
-        <title>Travels in Malaysia</title>
-        <description>&lt;p&gt;I recently concluded my first international vacation with a few colleagues. We wandered off to Malaysia for 8 days solely because the flight tickets were much cheaper than traveling to a place locally. Boarding a total of 5 flights cost each of us Rs. 19000 (or ~$280 at the time). We relied on Skyscanner, AirBnB, Uber/Grab and HitList (highly recommended!) for travel and lodging for the most part of our trip.&lt;/p&gt;
-
-&lt;p&gt;In retrospect, the vacation turned out to be an epitome of liberation for me. I witnessed exotic sights, had scrumptious delicacies, stayed in lavish residences(thanks to AirBnB!), met some fantastic people and finally understood the definition of &lt;em&gt;CHILLING&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here’s a picture of me(with a really pathetic expression) swimming on the 51st floor of our accommodation overlooking the Petronas Towers and the KL Tower(not in the picture).&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/wtqo4pgmskv97zc/IMG_3051.JPG&quot; /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;kota-kinabalu&quot;&gt;Kota Kinabalu&lt;/h3&gt;
-
-&lt;p&gt;The journey began by flying to Kota Kinabalu from Bangalore via Kuala Lumpur. Kota Kinabalu is a small city located in the Eastern part of Malaysia called Sabah. The day we landed here, it was pouring so heavily that you could literally observe the overpowering silence created by the massive smashing of rain to the ground. The city came across to me as sort of a &lt;em&gt;retirement paradise&lt;/em&gt;. Pleasant weather, modern architecture, good restaurants/bars and picturesque islands at stones throw distance. Overall, it had a very laidback feel attached to it. I’d definitely settle here if I plan on taking a pause from life. Philosophical notions aside, Kota Kinabalu has umpteen number of speedboat services that ply from the &lt;a href=&quot;https://goo.gl/maps/W6BcrpiMJL22&quot;&gt;Jesselton Jetty Point&lt;/a&gt; to a number of islands such as Manukan, Gaya, Sulug, Mamutik, and many more. You could either charter a boat and hop around all of them or hitch a service to any one of them. We zeroed-in on Manukan and tried out some snorkeling for the very first time.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/lgcb9pgriqj5rhy/Photo%2017-10-17%2C%206%2008%2040%20PM%20%281%29.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/qrc8if5c1aii93z/Photo%2017-10-17%2C%2010%2026%2043%20AM.jpg?dl=0&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;While relaxing on the island, we started to get bewildered by the changing climate which eventually turned itself into a storm in a short span of time. The entire population present on the island started to rush towards the shacks to protect themselves from the sand, rain and falling trees. Vacant boats started to evacuate family crowd first. We were one of the last factions to leave the island. Call it fate, but the storm subsided as soon as we left the island. The video below(recorded by my colleague) shows the initial behavior of the storm. The storm became more violent after this and then eventually subsided.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/siwEVrZOkvs&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;I really wanted to trek Mount Kinabalu and give scuba diving a shot. Since we were short on time, we decided to explore the city instead. Personally, I’m not an ardent supporter of going to bars or visiting shopping areas or traveling within the city in general. But to maintain the fun quotient of your travel group, it’s important to please everyone’s interests. We hung mostly around the &lt;a href=&quot;https://goo.gl/maps/AvGNZ6CxPRK2&quot;&gt;Suria Sabah Complex&lt;/a&gt; and &lt;a href=&quot;https://goo.gl/maps/YNzLCgnQAAw&quot;&gt;Waterfront&lt;/a&gt;. Waterfront is a really beautiful place in the daylight and a place bustling with bars, pubs ,and discotheques when the sun settles. Decent place for moderately priced drinks and food.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/xo1qjy8d507butg/Photo%2017-10-17%2C%203%2048%2009%20PM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://www.mumonthemove.com/wp-content/uploads/2016/04/Kota-kinabalu-waterfront.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The next day, I bid adieu to the most mellow city I’ve been to and boarded a flight to our next destination, Penang.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;penang&quot;&gt;Penang&lt;/h3&gt;
-
-&lt;p&gt;Penang is an old city with a load of historical backing. Penang isn’t as exciting as other places and is more of a family destination. Definitely, not meant for explorers or people who’re on a relaxed vacation. Won’t ramble much about Penang, since there wasn’t anything awe-striking to witness here. Regardless of that, we had a lot of fun renting out &lt;a href=&quot;https://www.linkbike.my/&quot;&gt;bikes&lt;/a&gt; and exploring &lt;a href=&quot;https://goo.gl/maps/B5x4SCHCH6S2&quot;&gt;George Town&lt;/a&gt;. Apart from that, we also visited the &lt;a href=&quot;https://goo.gl/maps/RZwkoPc5HPM2&quot;&gt;Penang Hill&lt;/a&gt; and the infamous &lt;a href=&quot;https://www.google.co.in/search?q=love+lane+georgetown&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjEuaLn2pjYAhXLpo8KHTXvATAQ_AUICygC&amp;amp;biw=1280&amp;amp;bih=703&quot;&gt;Love Lane&lt;/a&gt; at night. The most exhilarating part of my stay here was my AirBnB accommodation. Simply magnificent. Have a look at the pictures and feel free to judge.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;img style=&quot;max-width: 80%; transform: rotate(90deg); margin-top: 75px;&quot; src=&quot;https://dl.dropboxusercontent.com/s/vbbr731styfl8xi/Photo%2018-10-17%2C%202%2051%2031%20PM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%; transform: rotate(90deg); margin-top: 150px;&quot; src=&quot;https://dl.dropboxusercontent.com/s/01bp3cin065s1ds/Photo%2020-10-17%2C%204%2023%2049%20AM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/yom22hwsidhndyw/Photo%2019-10-17%2C%2012%2023%2026%20PM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/86bh7zmpe3953ff/Photo%2019-10-17%2C%205%2005%2023%20PM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/5brczwr1z7bl7jf/Photo%2018-10-17%2C%203%2010%2000%20PM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/ljgkifz9v89td4n/Photo%2019-10-17%2C%201%2030%2032%20PM%20%281%29.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%; transform: rotate(90deg); margin-top: 75px;&quot; src=&quot;https://dl.dropboxusercontent.com/s/py0kzuldqr4oeuz/Photo%2019-10-17%2C%207%2045%2021%20AM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/ktxa6ftzc254fy9/Photo%2019-10-17%2C%207%2049%2010%20AM.jpg?dl=0&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Next, we moved our human forms to Langkawi. Traveling via a sea-ferry that I’d easily term as the most disappointing water ride ever.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;langkawi&quot;&gt;Langkawi&lt;/h3&gt;
-
-&lt;p&gt;Langkawi is probably the third most popular tourist destination in Malaysia after Kuala Lumpur and Tioman Island. We had to visit this place. Langkawi is split into 2 parts - &lt;a href=&quot;https://goo.gl/maps/ega3eLsMctu&quot;&gt;Kuah&lt;/a&gt; and &lt;a href=&quot;https://goo.gl/maps/Ec4WkwvpMYr&quot;&gt;Pantai Cenang&lt;/a&gt;. We made a huge mistake by booking our accommodation in Kuah. Even though it was a lovely place, it was far from popular places such as the Langkawi SkyBridge, beaches of Pantai Cenang and various duty-free areas. Regardless, we hung around at Pantai Cenang most of the time. Clean beaches with shacks for cheap food and drinks, make-shift counters for trying out adventure sports, scenic sunset, refreshing sea breezes and an equally satisfying weather won us over despite Langkawi being flooded with tourists. Below, are the pictures of our accommodation with an infinity pool overlooking the sea and some views from the SkyBridge.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/nfuss2hn57o9zk9/Photo%2020-10-17%2C%2010%2043%2021%20AM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/7sw2tphwrzehhlb/Photo%2020-10-17%2C%202%2059%2021%20PM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/70gxkni8f5yzszo/Photo%2020-10-17%2C%203%2030%2023%20PM.jpg?dl=0&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The absolutely best part about visiting Langkawi was renting out a speedboat to visit places such as the &lt;a href=&quot;https://www.google.co.in/search?q=pregnant+lady+island+langkawi&amp;amp;tbm=isch&amp;amp;tbo=u&amp;amp;source=univ&amp;amp;sa=X&amp;amp;ved=0ahUKEwjfn8PV_5jYAhULro8KHUTeCKYQsAQIJg&amp;amp;biw=1280&amp;amp;bih=703&quot;&gt;Pregnant Lady Island&lt;/a&gt;, a lake where we encountered a creature similar to a Komodo Dragon, feeding the eagles in middle of the sea and relaxing at the most breathtaking beach that I’ve ever come across, the &lt;a href=&quot;https://goo.gl/maps/HhubkLfeCdU2&quot;&gt;Pulau Beras Basah&lt;/a&gt; beach. This beach was literally pre-occupied by only about a dozen people when we arrived here. The water was crystal clear, the sand was white and you could see monkeys chilling next to your beach mat. The sea was just ankle-deep for about a 100 meters. You could also see ducks and swans drinking water and catching their meals from the sea. The island was pretty small though. Nothing much happened around here and we soon left after relaxing here for a bit.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/ru0adl6s2w614j6/Photo%2021-10-17%2C%205%2003%2035%20PM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/i91tuihsqi1awi9/Photo%2021-10-17%2C%207%2015%2007%20PM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/4j4cojq6ffy1neg/Photo%2021-10-17%2C%202%2019%2020%20PM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/wdctb8h55wczu9a/Photo%2021-10-17%2C%203%2020%2012%20PM.jpg?dl=0&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/fp3j7enuefdkcww/Photo%2021-10-17%2C%202%2026%2050%20PM.jpg?dl=0&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;After Langkawi, we spent a day in Kuala Lumpur before heading back to Bangalore. I’m not that excited to articulate my KL experience as it was pretty generic. Well, what can I say? City travel and nightlife seem quite meaningless to me. But we did visit some places such as the &lt;a href=&quot;https://www.klbirdpark.com/&quot;&gt;KL Bird Park&lt;/a&gt;, &lt;a href=&quot;https://www.menarakl.com.my/&quot;&gt;KL Tower&lt;/a&gt;, the famous &lt;a href=&quot;http://vcr.my/&quot;&gt;VCR bakery&lt;/a&gt; and just walked around KLCC grabbing a bear and exploring the city. On a funny note, I developed a sugar rush which spoilt my entire night. Well, we liked VCR so much that we ended up ordering (and then eating) everything on the menu.&lt;/p&gt;
-
-&lt;p&gt;Embracing all the experiences collectively, I must say, it was a pretty solid trip that one can take using his savings from college. I enjoyed thoroughly and developed maturity as a traveler. My subsequent trips would follow a &lt;em&gt;“Skip the cities. Embrace the nature.”&lt;/em&gt; approach. My next destination would be Vancouver. Let’s see how that turns out. Signing off with a Korean Bing Su that we devoured in Langkawi. Ciao!&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;img style=&quot;max-width: 80%;&quot; src=&quot;https://dl.dropboxusercontent.com/s/sgj97ctuqv1hcul/Photo%2020-10-17%2C%201%2017%2040%20PM.jpg?dl=0&quot; /&gt;
-&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Dec 2017 00:00:00 +0530</pubDate>
-        <link>https://saru.ml/blogs/2017/12/21/travels-in-malaysia.html</link>
-        <guid isPermaLink="true">https://saru.ml/blogs/2017/12/21/travels-in-malaysia.html</guid>
-        
-        <category>travel</category>
-        
-        <category>malaysia</category>
-        
-        <category>places-to-visit</category>
-        
-        <category>journey</category>
-        
-        <category>langkawi</category>
-        
-        <category>kota-kinabalu</category>
-        
-        
-        <category>blogs</category>
-        
-      </item>
     
       <item>
         <title>Handy Download Script - Plant Village Dataset</title>
@@ -271,16 +17,16 @@ In order to download the images, you need to download 82 &lt;strong&gt;csv&lt;/s
 Well, the dataset is ~40GB in size. Imagine scraping 82 files where the total downloaded data amounts to ~40GB.
 Moreover, the files are also infused with certain metadata which needs to be cleaned before you can scrape them.&lt;/p&gt;
 
-&lt;p&gt;You also need to sign up and create an account on the website for achieving all this. All this causes a little pain given the noble intentions behind the effort.
-To make this dataset more accessible, I have pre-downloaded all the &lt;strong&gt;csv&lt;/strong&gt; files, cleaned them off their metadata and written a tiny script to make scraping them much easier and interactive.&lt;/p&gt;
+&lt;p&gt;You also need to sign up and create an account on the website for achieving all this. All this causes a bit of pain when the effort and the dataset is of such noble magnitude.
+To make this dataset more accessible, I have pre-downloaded all the &lt;strong&gt;csv&lt;/strong&gt; files and written a tiny script to make scraping them much easier and interactive.&lt;/p&gt;
 
 &lt;p&gt;You can download the entire 1.7MB package &lt;a href=&quot;https://drive.google.com/file/d/0BwrR3ZPLVYhkWmxSQTdHY3NPbU0/view&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The package contains - &lt;strong&gt;data_csv&lt;/strong&gt; and &lt;strong&gt;download.py&lt;/strong&gt;. Run &lt;strong&gt;download.py&lt;/strong&gt; from within the directory. Cheers.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Apr 2017 00:00:00 +0530</pubDate>
-        <link>https://saru.ml/tech/2017/04/26/plant-village-dataset.html</link>
-        <guid isPermaLink="true">https://saru.ml/tech/2017/04/26/plant-village-dataset.html</guid>
+        <link>http://localhost:4000/blogs/2017/04/26/plant-village-dataset.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/2017/04/26/plant-village-dataset.html</guid>
         
         <category>machine-learning</category>
         
@@ -295,7 +41,7 @@ To make this dataset more accessible, I have pre-downloaded all the &lt;strong&g
         <category>python</category>
         
         
-        <category>tech</category>
+        <category>blogs</category>
         
       </item>
     
@@ -405,8 +151,8 @@ order just like other tree implementations.
 &lt;p&gt;Link: &lt;a href=&quot;https://code.google.com/archive/p/judyarray/&quot;&gt;https://code.google.com/archive/p/judyarray/&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Jan 2017 00:00:00 +0530</pubDate>
-        <link>https://saru.ml/tech/2017/01/18/judy-arrays.html</link>
-        <guid isPermaLink="true">https://saru.ml/tech/2017/01/18/judy-arrays.html</guid>
+        <link>http://localhost:4000/blogs/2017/01/18/judy-arrays.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/2017/01/18/judy-arrays.html</guid>
         
         <category>core-cs</category>
         
@@ -417,7 +163,7 @@ order just like other tree implementations.
         <category>database</category>
         
         
-        <category>tech</category>
+        <category>blogs</category>
         
       </item>
     
