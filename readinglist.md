@@ -11,6 +11,7 @@ permalink: /readinglist/
 <p align="center">
 	<strong>2018</strong>
 </p>
+
 * <a href="https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729/ref=sr_1_1?s=books&ie=UTF8&qid=1528703964&sr=1-1&keywords=ghost+in+the+wires&dpID=51kt5CfVEkL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">Ghost in the Wires</a>, by Kevin Mitnick, Steve Wozniack
 
 * <a href="https://www.amazon.com/When-Giants-Walked-Earth-Biography/dp/0312590393/ref=sr_1_1?ie=UTF8&qid=1528703552&sr=8-1&keywords=when+giants+walked+the+earth+a+biography+of+led+zeppelin">When Giants Walked Earth</a>, by Mick Wall
