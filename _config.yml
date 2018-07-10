@@ -22,6 +22,9 @@ links:
   - name:         Reading List
     url:          /readinglist
     external:     false
+  - name:         Podcast
+    url:          /podcast
+    external:     false
 
 # Build settings
 markdown: kramdown
