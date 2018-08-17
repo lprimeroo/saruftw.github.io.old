@@ -29,7 +29,7 @@ But what if a situation arises, wherein the data to be indexed is sparse in natu
 
 Enter Judy Arrays. In a nutshell, Judy Array is a **_trie_**. I suggest you read up about tries if you're not familiar with it. It is a very rudimentary and useful data structure and is also called a **_digital tree_** or a **_radix tree_**.
 
-<p align="center">
+<p align="center" markdown="1">
 ![Example of a Trie](http://odhyan.com/blog/wp-content/uploads/2010/11/trie-example.png)
 </p>
 

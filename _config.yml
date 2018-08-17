@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Home of Sarthak
 url: https://saru.science # the base hostname & protocol for your site
 baseurl: # the sub-path of your site, e.g. /blog/
-
+future: true
 disqus_shortname: saru95 # leave empty if you don't want comments
 google_analytics: true #if set to "true" modify the google_analytycs.html, set to false otherwise
 
