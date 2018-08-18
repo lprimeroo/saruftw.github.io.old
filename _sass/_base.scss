@@ -19,6 +19,7 @@
         -webkit-text-size-adjust: 100%;
     }
 
+
 /* Set Margin Bottom for Vertical Rhythm
  * ============================================== */
     h1, h2, h3, h4, h5, h6,
@@ -75,11 +76,12 @@
 /* Links
  * ============================================== */
     a {
-        color: darken($brand-color, 5%);
-        text-decoration: none;
+      color: #4848b9;
+      text-decoration: none;
 
         &:hover {
             color: $brand-color;
+            background: linear-gradient(to top, rgba(50, 50, 130, 0.2) 0%, rgba(50, 50, 130, 0.2) 10%, transparent 31%, transparent 100%);
             text-decoration: none;
         }
     }
