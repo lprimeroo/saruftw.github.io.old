@@ -63,7 +63,7 @@ H(p) =
 \end{cases}
 $$
 
-Throughout this post, we deal with a discrete set of probabilities. I'll expand on continuous set of probabilities later on in the post.
+Throughout this post, we deal with a discrete set of probabilities.
 
 One may argue that in order to find the number of "guesses" to rightly predict something from the stream, we can just multiply the probabilities. For example,
 
@@ -179,7 +179,7 @@ Notice, the cross-entropy will always be higher than the individual entropies si
 </p>
 Yayy! So, we've accomplished 95% of the crucial stuff required to understand KL divergence.
 
-The KL divergence between two probability distributions is just the number of extra bits we need if we encode the information represented by one using the probability distribution of the other. It is the difference between cross entropy and entropy. Yes, that's it. You can take a guess regarding how is it mathematically represented and you probably will be right.
+The KL divergence between two probability distributions is just the number of extra bits we need if we encode the information represented by one distribution using the probability distribution of the other. It is the difference between cross entropy and entropy. Yes, that's it. You can take a guess regarding how it is mathematically represented and you'll probably be right.
 
 $$
 KLD = cross entropy - entropy = H(p, q) - H(p) \\
@@ -190,9 +190,9 @@ KLD = \sum_{i} p_i log_2 (\frac{p_i}{q_i})\\
 
 $$
 
-Lesser the cross-entropy, lesser will be the KL divergence. The term _divergence_ is itself self-explanatory. The factor by which one distribution diverges from the other is basically what KL divergence is.
+Lesser the cross-entropy, lesser will be the KL divergence. The term _divergence_ in itself is quite self-explanatory. The factor by which one distribution diverges from the other is basically what KL divergence is.
 
-Writing the code for it should be fairly rudimentary now.
+Writing the code for it should be easy now.
 
 ```py
 def kld(p, q):
@@ -203,4 +203,4 @@ kld(true_probability, obtained_probability) # 1.0307765380651435
 
 In our case, the divergence comes out to be a factor of 1.0307765380651435.
 
-I hope that you've clearly understood KL divergence by now. See ya next time! probably with the explanation of a different topic which I personally find hard to understand.
+I hope that you've clearly understood KL divergence. See ya next time! probably with the explanation of a different topic which I personally find hard to understand.
