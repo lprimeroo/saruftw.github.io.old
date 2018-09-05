@@ -92,7 +92,7 @@ $$
 Entropy means the average number of bits/guesses. Had the probabilities been similar for all the temperatures, we could have just done
 
 $$
-- \frac{1}{8}(\sum_{i} \log_2 (\frac{1}{8})) = -\log_2 (\frac{1}{8}) = 0.90308998699 \\
+- \frac{1}{8}(\sum_{i} \log_2 (\frac{1}{8})) = -\log_2 (\frac{1}{8}) = 3.0 \\
 $$
 
 But since we already have a given probability distribution, we multiply each of the $$\log_2 p_i$$ terms with their respective probabilities. Why? Because when we calculate an average of a set of numbers, we assume that each of the numbers in the set are equally likely to be closer to the average. But when the probabilities for each number in the set are mentioned, things are done differently.
