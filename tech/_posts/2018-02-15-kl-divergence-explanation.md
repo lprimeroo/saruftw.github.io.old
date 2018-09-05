@@ -117,10 +117,6 @@ Since we now know what entropy is, cross entropy should be fairly easy to unders
 
 > Cross entropy between two probability distributions  p and q over the same underlying set of events measures the average number of bits needed to identify an event drawn from the set, if a coding scheme is used that is optimized for an "unnatural" probability distribution q, rather than the "true" distribution  p.
 
-<p align="center" markdown="1">
-![](https://media.giphy.com/media/cJhhHzImaBXfW/giphy.gif)
-</p>
-
 In simple terms,
 
 Given that $$H(p) = - \sum_{i} p_i\log_2 p_i$$ represents entropy, we can say that $$H(p, q) = - \sum_{i} p_i\log_2 q_i$$ represents cross entropy. You ask how? Well, consider you have 2 probability distributions _p_ and _q_ where _p_ represents a true distribution and _q_ represents a predicted distribution. Both _p_ and _q_ are distributions over the same set of events. Imagine the last step of a neural network wherein you obtain a probability distribution(or _q_) and then compare it with a distribution you already know beforehand(or _p_) where both the distributions describe the same set of classes such animals, plants, cars, or whatever your model is trained on.
@@ -174,10 +170,7 @@ Notice, the cross-entropy will always be higher than the individual entropies si
 
 ## Kullback-Leibler divergence
 
-<p align="center" markdown="1">
-![](https://media.giphy.com/media/4xpB3eE00FfBm/giphy.gif){:height="250px" width="250px"}
-</p>
-Yayy! So, we've accomplished 95% of the crucial stuff required to understand KL divergence.
+Yayy! So, we've accomplished most of the crucial stuff required to understand KL divergence.
 
 The KL divergence between two probability distributions is just the number of extra bits we need if we encode the information represented by one distribution using the probability distribution of the other. It is the difference between cross entropy and entropy. Yes, that's it. You can take a guess regarding how it is mathematically represented and you'll probably be right.
 
