@@ -6,7 +6,3 @@ gem 'jekyll-watch'
 gem 'rouge'
 gem 'jekyll'
 gem 'jekyll-sitemap'
-
-group :jekyll_plugins do
-  gem 'jekyll-katex'
-end

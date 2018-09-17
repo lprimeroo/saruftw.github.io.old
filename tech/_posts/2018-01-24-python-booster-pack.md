@@ -339,3 +339,5 @@ candidate_1 = Candidate(name='John Doe', age=35, gender='M')
 
 <br />
 This wraps up the Part 1 of the "Python Booster Pack". I'll be on the hunt for more interesting stuff and hopefully there will be a Part 2. Until then, Adios!
+
+Part 2: <a href="https://saru.science/tech/2018/02/02/python-booster-pack-2.html">Link</a>
