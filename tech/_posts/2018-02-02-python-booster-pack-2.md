@@ -35,7 +35,7 @@ In this snippet, we timed the data structure initializing functions such as `dic
 
 ### Better function aliases
 
-In this section, we explore `functools.partial`. This utility enables us to create a new version of a function with one or more arguments already filled in. In order to convert an integer in a different number system to decimal, we use `int` with the `base` argument. Writing them as function would give us the following snippet.
+In this section, we explore `functools.partial`. This utility enables us to create a new version of a function with one or more arguments already filled in. In order to convert an integer in a different number system to decimal, we use `int` with the `base` argument. Writing them as functions would give us the following snippet.
 
 ```py
 def from_binary(x):
@@ -96,7 +96,7 @@ else:
   print("An odd number does not exist in the array.")
   ```
 
-We have elegantly avoided the flag and our code looks a lot cleaner. Another thing to point out to during those code reviews.
+We have elegantly avoided the flag and our code looks a lot cleaner. Another block of code to point out to during those code reviews.
 ### Manage your contexts
 
 There will exist situations in your coding journey, where you'll need to implement some kind of functionality that executes before and after your logic.
@@ -112,7 +112,7 @@ with open('filename.txt', r) as f:
 
 The snippet mentioned above automatically closes the file after the logic present inside the `with` block is over. The term _context manager_ is used to refer to such coding pattern. We have multiple ways of achieving this within Python.
 
-The first method is just a normal class but with `__enter__` and `__exit__` dunder methods. In order to understand, what the flow would be, try executing this snippet.
+The first method is just a normal class but with `__enter__` and `__exit__` dunder methods. In order to understand the flow, try executing this code.
 
 ```py
 class Demo:
@@ -186,7 +186,7 @@ Using this class as a decorator over any function, will enable us to execute our
 
 ### Generator Expressions
 
-IPython's `%timeit` magic is quite useful to discover what's best for the speed and elegance of our code. Basically, all we're doing is finding all the even number up to 1000 and squaring them. And we're doing this using 2 techniques. The first is a generator expression and the second is a standard list comprehension. Later we iterate over them, and print the values.
+IPython's `%timeit` magic is quite useful to discover what's best for the speed and elegance of our code. Basically, all we're doing is finding all the even numbers up to 1000 and squaring them. And we're doing this using 2 techniques. The first is a generator expression and the second is a standard list comprehension. Later we iterate over them, and print the values.
 
 ```py
 >> %timeit it = (x**2 for x in range(1000) if x % 2 == 0)
