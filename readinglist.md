@@ -5,7 +5,7 @@ permalink: /readinglist/
 ---
 
 <p align="center">
-  A small segment of my online space where I maintain a record of the books I've finished reading. I also rate them out of 5. ٩(●ᴗ●)۶
+  A small segment of my online space where I maintain a record of the books I've finished reading. ٩(●ᴗ●)۶
 </p>
 
 <p align="center">
