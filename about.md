@@ -5,6 +5,12 @@ permalink: /about/
 ---
 
 <p align="center">
-<p markdown="1">Hi! I'm <strong>Sarthak</strong> (Pronounced as <i>saar (as in <i>sarcasm</i>)-THUK (as in <i>thu<s>n</s>k</i>)</i>). People call me <strong>Saru</strong>.
- <br/>Handles: <a href="https://twitter.com/saruftw" target="_blank">Twitter</a>, <a href="https://github.com/saru95" target="_blank">GitHub</a>, <a href="https://steamcommunity.com/id/rgbimbochamp/" target="_blank">Steam</a> and <a href="https://www.instagram.com/saruftw/" target="_blank">Instagram</a>.</p>
+<p markdown="1">Hi! I'm <strong>Sarthak</strong>. People call me <strong>Saru</strong> <em>(obligatory reference to LOTR is linked <a target="_blank" href="http://lotr.wikia.com/wiki/Saruman">here</a>)</em>.
+<p align="center">
+<img height="250" src="http://oi68.tinypic.com/20qygqu.jpg" />
+<br />
+Say ( ^_^)<em>／</em> on <a href="https://twitter.com/saruftw" target="_blank">Twitter.</a></p>
+</p>
+
+
 </p>
