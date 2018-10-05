@@ -162,7 +162,7 @@ __exit__
 
 Notice how `x` here stores the value returned by `yield`.
 
-The third way of achieving this focuses on generalizing this feature. If you're repeating your before and after logic a number of times, it's wise to not repeat yourself and use `ContextDecorator`.
+The third way of achieving this focuses on generalizing this feature. If you're repeating your before and after logic a number of times, it's wise to not repeat yourself and use a `ContextDecorator` instead.
 In the snippet below, we write a class similar to the one mentioned in the first method and make it inherit from the `ContextDecorator` class.
 
 ```py
@@ -186,7 +186,7 @@ Using this class as a decorator over any function, will enable us to execute our
 
 ### Generator Expressions
 
-IPython's `%timeit` magic is quite useful to discover what's best for the speed and elegance of our code. Basically, all we're doing is finding all the even numbers up to 1000 and squaring them. And we're doing this using 2 techniques. The first is a generator expression and the second is a standard list comprehension. Later we iterate over them, and print the values.
+IPython's `%timeit` magic is quite useful to discover what's best for the speed and elegance of our code. In the snippet below, all we're doing is finding all the even numbers up to 1000 and squaring them. And we're doing this using 2 techniques. The first is a generator expression and the second is a standard list comprehension. Later we iterate over them, and print the values.
 
 ```py
 >> %timeit it = (x**2 for x in range(1000) if x % 2 == 0)
@@ -202,11 +202,11 @@ IPython's `%timeit` magic is quite useful to discover what's best for the speed 
 3.77 ms ± 167 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
 ```
 
-The generator expressions are faster by a factor of  10<sup>3</sup> and 10<sup>6</sup> when it comes to the expression and iteration respectively. Generators are an amazing concept and replacing your list comprehensions with them can provide immense speed benefits. In most cases, just replace `[]` with `()` wherever you notice a list comprehension generating a series   (¯\\\_(ツ)\_/¯).
+The generator expressions are faster by a factor of  10<sup>3</sup> and 10<sup>6</sup> when it comes to the expression and iteration respectively. Generators is an amazing concept and replacing your list comprehensions with them can provide immense speed benefits. In most cases, just replace `[]` with `()` wherever you notice a list comprehension generating a series   (¯\\\_(ツ)\_/¯).
 
 ### Invoke class routines using strings
 
-This is interesting. Let's walk through an example to explain this. Suppose, you have a class as below and it has 4 private members (of course using the infamous double-underscore technique). You also have getter functions written for it. Now, since the member variables are private, we cannot certainly access them using `object.__member`. However, accessing them using the getter function is straightforward (`object.getter_for_member()`).
+This is interesting. Let's walk through an example to explain this. Suppose, you have a class like the one below and it has 4 private members (of course using the infamous double-underscore technique). You also have getter functions written for it. Now, since the member variables are private, we cannot certainly access them using `object.__member`. However, accessing them using the getter function is straightforward (`object.getter_for_member()`).
 
 ```py
 class Demo():
