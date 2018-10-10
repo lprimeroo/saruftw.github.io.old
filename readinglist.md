@@ -12,6 +12,8 @@ permalink: /readinglist/
 	<strong>2018</strong>
 </p>
 
+* <a href="https://www.amazon.com/Devils-Advocate-Untold-Karan-Thapar/dp/9352779843/ref=sr_1_1?ie=UTF8&qid=1539192518&sr=8-1&keywords=devils+advocate+karan+thapar">Devil's Advocate : The Untold Story</a>, by Karan Thapar<span>  &#9733;&#9733;&#9733;&#9733;&#9734;</span>
+
 * <a href="https://www.amazon.com/Breakout-Nations-Pursuit-Economic-Miracles/dp/0393345408/ref=sr_1_1?s=books&ie=UTF8&qid=1530035427&sr=1-1&keywords=breakout+nation&dpID=41hYc4eB4cL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">Breakout Nations: In Pursuit of the Next Economic Miracles</a>, by Ruchir Sharma
 
 * <a href="https://www.amazon.com/No-Easy-Day-Firsthand-Account/dp/0451468740/ref=sr_1_1?ie=UTF8&qid=1530035369&sr=8-1&keywords=no+easy+day&dpID=51PREluvEJL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">No Easy Day</a>, by Mark Owen
