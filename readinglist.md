@@ -14,7 +14,7 @@ permalink: /readinglist/
 
 * <a href="https://www.amazon.com/Long-Walk-Freedom-Abacus-Anniversary-ebook/dp/B00CAUHF6U/ref=sr_1_1?ie=UTF8&qid=1539192623&sr=8-1&keywords=long+walk+to+freedom">Long Walk To Freedom</a>, by Nelson Mandela
 
-* <a href="https://www.amazon.com/Devils-Advocate-Untold-Karan-Thapar/dp/9352779843/ref=sr_1_1?ie=UTF8&qid=1539192518&sr=8-1&keywords=devils+advocate+karan+thapar">Devil's Advocate : The Untold Story</a>, by Karan Thapar<span>  &#9733;&#9733;&#9733;&#9733;&#9734;</span>
+* <a href="https://www.amazon.com/Devils-Advocate-Untold-Karan-Thapar/dp/9352779843/ref=sr_1_1?ie=UTF8&qid=1539192518&sr=8-1&keywords=devils+advocate+karan+thapar">Devil's Advocate : The Untold Story</a>, by Karan Thapar<span>  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
 * <a href="https://www.amazon.com/Breakout-Nations-Pursuit-Economic-Miracles/dp/0393345408/ref=sr_1_1?s=books&ie=UTF8&qid=1530035427&sr=1-1&keywords=breakout+nation&dpID=41hYc4eB4cL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">Breakout Nations: In Pursuit of the Next Economic Miracles</a>, by Ruchir Sharma
 
