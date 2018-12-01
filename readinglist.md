@@ -7,16 +7,13 @@ permalink: /readinglist/
 <p align="center">
   A small segment of my online space where I maintain a record of the books I've finished reading. ٩(●ᴗ●)۶
 </p>
-
 <p align="center">
-	<strong>2018</strong>
+	<strong>2019</strong>
 </p>
 
+* <a href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021">Principles: Life and Work</a>, by Ray Dalio
+
 * <a href="https://www.amazon.com/Long-Walk-Freedom-Abacus-Anniversary-ebook/dp/B00CAUHF6U/ref=sr_1_1?ie=UTF8&qid=1539192623&sr=8-1&keywords=long+walk+to+freedom">Long Walk To Freedom</a>, by Nelson Mandela
-
-* <a href="https://www.amazon.com/Devils-Advocate-Untold-Karan-Thapar/dp/9352779843/ref=sr_1_1?ie=UTF8&qid=1539192518&sr=8-1&keywords=devils+advocate+karan+thapar">Devil's Advocate : The Untold Story</a>, by Karan Thapar<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
-
-* <a href="https://www.amazon.com/Breakout-Nations-Pursuit-Economic-Miracles/dp/0393345408/ref=sr_1_1?s=books&ie=UTF8&qid=1530035427&sr=1-1&keywords=breakout+nation&dpID=41hYc4eB4cL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">Breakout Nations: In Pursuit of the Next Economic Miracles</a>, by Ruchir Sharma
 
 * <a href="https://www.amazon.com/No-Easy-Day-Firsthand-Account/dp/0451468740/ref=sr_1_1?ie=UTF8&qid=1530035369&sr=8-1&keywords=no+easy+day&dpID=51PREluvEJL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">No Easy Day</a>, by Mark Owen
 
@@ -24,21 +21,31 @@ permalink: /readinglist/
 
 * <a href="https://www.amazon.com/When-Giants-Walked-Earth-Biography/dp/0312590393/ref=sr_1_1?ie=UTF8&qid=1528703552&sr=8-1&keywords=when+giants+walked+the+earth+a+biography+of+led+zeppelin">When Giants Walked Earth</a>, by Mick Wall
 
-* <a href="https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?s=books&ie=UTF8&qid=1525172248&sr=1-1&keywords=the+subtle+art+of+not+giving+a+f---+mark+manson&dpID=51VNlzbfpXL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">The Subtle Art of Not Giving a F*ck</a>, by Mark Manson<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
-
 * <a href="https://www.amazon.com/Elephants-Acid-Bizarre-Experiments-Original/dp/0156031353/ref=sr_1_1?ie=UTF8&qid=1525172145&sr=8-1&keywords=elephants+on+acid&dpID=51iZLsCwpDL&preST=_SY344_BO1,204,203,200_QL70_&dpSrc=srch">Elephants on Acid</a>, by Alex Boese
 
 * <a href="https://www.amazon.com/Clapton-Autobiography-Eric/dp/038551851X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1519649164&sr=1-1">Eric Clapton: The Autobiography</a>, by Eric Clapton
 
-* <a href="https://www.amazon.com/Admissions-Life-as-Brain-Surgeon/dp/1250127262/ref=sr_1_1?ie=UTF8&qid=1516972960&sr=8-1&keywords=admissions">Admissions: Life as a Brain Surgeon</a>, by Henry Marsh<span class="rating">  &#9733;&#9734;&#9734;&#9734;&#9734;</span>
+<p align="center">
+	<strong>2018</strong>
+</p>
 
-* <a href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021">Principles: Life and Work</a>, by Ray Dalio
+
+
+* <a href="https://www.amazon.com/Devils-Advocate-Untold-Karan-Thapar/dp/9352779843/ref=sr_1_1?ie=UTF8&qid=1539192518&sr=8-1&keywords=devils+advocate+karan+thapar">Devil's Advocate : The Untold Story</a>, by Karan Thapar<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
+
+* <a href="https://www.amazon.com/Breakout-Nations-Pursuit-Economic-Miracles/dp/0393345408/ref=sr_1_1?s=books&ie=UTF8&qid=1530035427&sr=1-1&keywords=breakout+nation&dpID=41hYc4eB4cL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">Breakout Nations: In Pursuit of the Next Economic Miracles</a>, by Ruchir Sharma
+
+* <a href="https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?s=books&ie=UTF8&qid=1525172248&sr=1-1&keywords=the+subtle+art+of+not+giving+a+f---+mark+manson&dpID=51VNlzbfpXL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">The Subtle Art of Not Giving a F*ck</a>, by Mark Manson<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
+
+* <a href="https://www.amazon.com/Admissions-Life-as-Brain-Surgeon/dp/1250127262/ref=sr_1_1?ie=UTF8&qid=1516972960&sr=8-1&keywords=admissions">Admissions: Life as a Brain Surgeon</a>, by Henry Marsh<span class="rating">  &#9733;&#9734;&#9734;&#9734;&#9734;</span>
 
 * <a href="https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_1?ie=UTF8&qid=1513524775&sr=8-1&keywords=leonardo+da+vinci+walter+isaacson">Leonardo da Vinci</a>, by Walter Isaacson<span class="rating">  &#9733;&#9733;&#9733;&#9733;&#9734;</span>
 
 * <a href="https://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994/ref=sr_1_1?ie=UTF8&qid=1512822995&sr=8-1&keywords=what+if">What If?</a>, by Randall Munroe<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
-* <a href="https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X/ref=sr_1_1?ie=UTF8&qid=1512475959&sr=8-1&keywords=mans+search+for+meaning">Man's Search for Meaning</a>, by Viktor E. Frankl
+* <a href="https://www.amazon.com/Mossad-Greatest-Missions-Israeli-Service/dp/0062123416/ref=sr_1_1?ie=UTF8&qid=1499618790&sr=8-1&keywords=Mossad%3A+The+Greatest+Missions+of+the+Israeli+Secret+Service">Mossad</a>, by Michael Bar-Zohar, Nissim Mishal<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
+
+* <a href="https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X/ref=sr_1_1?ie=UTF8&qid=1512475959&sr=8-1&keywords=mans+search+for+meaning">Man's Search for Meaning</a>, by Viktor E. Frankl<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
 * <a href="https://www.amazon.com/Pandoras-Lab-Seven-Stories-Science/dp/1426217986/ref=sr_1_1?s=books&ie=UTF8&qid=1512240637&sr=1-1&keywords=pandoras+lab">Pandora's Lab</a>, by Paul A. Offit<span class="rating">  &#9733;&#9733;&#9733;&#9733;&#9733;</span>
 
@@ -58,8 +65,6 @@ permalink: /readinglist/
 * <a href="https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X/ref=sr_1_1?ie=UTF8&qid=1499619038&sr=8-1&keywords=When+Breath+Becomes+Air">When Breath Becomes Air</a>, by Paul Kalanithi<span class="rating">  &#9733;&#9733;&#9733;&#9733;&#9733;</span>
 
 * <a href="https://www.amazon.com/Brain-Story-You-David-Eagleman/dp/0525433449/ref=sr_1_1?ie=UTF8&qid=1499618721&sr=8-1&keywords=The+Brain%3A+The+Story+of+You">The Brain: The Story of You</a>, by David Eagleman<span class="rating">  &#9733;&#9733;&#9734;&#9734;&#9734;</span>
-
-* <a href="https://www.amazon.com/Mossad-Greatest-Missions-Israeli-Service/dp/0062123416/ref=sr_1_1?ie=UTF8&qid=1499618790&sr=8-1&keywords=Mossad%3A+The+Greatest+Missions+of+the+Israeli+Secret+Service">Mossad</a>, by Michael Bar-Zohar, Nissim Mishal<span class="rating">  &#9733;&#9733;&#9733;&#9733;&#9734;</span>
 
 * <a href="https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway/dp/0684801221/ref=sr_1_1?ie=UTF8&qid=1499619002&sr=8-1&keywords=The+Old+Man+and+the+Sea">The Old Man and the Sea</a>, by Ernest Hemingway<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
