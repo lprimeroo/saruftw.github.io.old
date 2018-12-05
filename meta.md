@@ -11,7 +11,9 @@ permalink: /meta/
 </p>
 
 * [Great Links](#great-links)
-	* [Artificial Intelligence]()
+	* [Artificial Intelligence](#artificial-intelligence)
+	* [Distributed Systems](#distributed-systems)
+	* [Programming Languages](#programming-languages)
 * [My Reading List](#reading-list)
 	* [2019](#2019)
 	* [2018](#2018)
@@ -36,8 +38,16 @@ permalink: /meta/
 
 * <a href="https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6">Activation Functions</a>
 
-<hr />
 
+### Distributed Systems
+
+* <a href="http://thesecretlivesofdata.com/raft/">Raft: Understandable Distributed Consensus</a>
+
+### Programming Languages
+
+* <a href="https://boredzo.org/pointers/">Everything you need to know about pointers in C</a>
+<hr />
+<br />
 ## Reading List
 
 <p align="center">
