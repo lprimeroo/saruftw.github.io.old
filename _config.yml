@@ -19,8 +19,8 @@ links:
   - name:         About
     url:          /about
     external:     false
-  - name:         Reading List
-    url:          /readinglist
+  - name:         Meta
+    url:          /meta
     external:     false
 
 # Build settings

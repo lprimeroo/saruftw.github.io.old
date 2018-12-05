@@ -1,15 +1,50 @@
 ---
 layout: page
-title: Reading List
-permalink: /readinglist/
+title: Meta
+permalink: /meta/
 ---
+
+# Table of Contents
+
+<p>
+  Storing stuff for bookkeeping and reference purposes.
+</p>
+
+* [Great Links](#great-links)
+	* [Artificial Intelligence]()
+* [My Reading List](#reading-list)
+	* [2019](#2019)
+	* [2018](#2018)
+	* [2017](#2017)
+	* [2016](#2016)
+
+## Great Links
+
+<p align="center">
+  Collection of various articles and tutorials, I immensely enjoyed reading.
+</p>
+
+### Artificial Intelligence
+
+* <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a>
+
+* <a href="http://dlsys.cs.washington.edu/pdf/lecture4.pdf">Backpropagation and Automatic Differentiation</a>
+
+* <a href="https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf">Intuitively Understanding Variational Autoencoders</a>
+
+* <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html">The Annotated Transformer</a>
+
+* <a href="https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6">Activation Functions</a>
+
+<hr />
+
+## Reading List
 
 <p align="center">
   A small segment of my online space where I maintain a record of the books I've finished reading. ٩(●ᴗ●)۶
 </p>
-<p align="center">
-	<strong>2019</strong>
-</p>
+
+### 2019
 
 * <a href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021">Principles: Life and Work</a>, by Ray Dalio
 
@@ -25,11 +60,7 @@ permalink: /readinglist/
 
 * <a href="https://www.amazon.com/Clapton-Autobiography-Eric/dp/038551851X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1519649164&sr=1-1">Eric Clapton: The Autobiography</a>, by Eric Clapton
 
-<p align="center">
-	<strong>2018</strong>
-</p>
-
-
+### 2018
 
 * <a href="https://www.amazon.com/Devils-Advocate-Untold-Karan-Thapar/dp/9352779843/ref=sr_1_1?ie=UTF8&qid=1539192518&sr=8-1&keywords=devils+advocate+karan+thapar">Devil's Advocate : The Untold Story</a>, by Karan Thapar<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
@@ -53,9 +84,7 @@ permalink: /readinglist/
 
 
 
-<p align="center">
-	<strong>2017</strong>
-</p>
+### 2017
 
 
 * <a href="https://www.amazon.com/Search-Schrodingers-Cat-Updated-Gribbin/dp/B00C6OM9V6/ref=sr_1_2?ie=UTF8&qid=1505757323&sr=8-2&keywords=In+Search+Of+Schrodinger%27s+Cat">In Search Of Schrodinger's Cat</a>, by John Gribbin<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
@@ -69,10 +98,7 @@ permalink: /readinglist/
 * <a href="https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway/dp/0684801221/ref=sr_1_1?ie=UTF8&qid=1499619002&sr=8-1&keywords=The+Old+Man+and+the+Sea">The Old Man and the Sea</a>, by Ernest Hemingway<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
 
-
-<p align="center">
-	<strong>2016</strong>
-</p>
+### 2016
 
 * <a href="https://www.amazon.com/Thousand-Splendid-Suns-Khaled-Hosseini/dp/159448385X/ref=sr_1_1?ie=UTF8&qid=1499619223&sr=8-1&keywords=A+Thousand+Splendid+Suns">A Thousand Splendid Suns</a>, by Khaled Hosseini<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
@@ -83,10 +109,6 @@ permalink: /readinglist/
 * <a href="https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041/ref=sr_1_1?ie=UTF8&qid=1499617976&sr=8-1&keywords=Surely+You%27re+Joking%2C+Mr.+Feynman%21%3A+Adventures+of+a+Curious+Character">Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character</a>, by Richard P. Feynman<span class="rating">  &#9733;&#9733;&#9733;&#9733;&#9734;</span>
 
 * <a href="https://www.amazon.com/Kite-Runner-Khaled-Hosseini/dp/159463193X/ref=sr_1_1?ie=UTF8&qid=1499617548&sr=8-1&keywords=the+kite+runner">The Kite Runner</a>, by Khaled Hosseini<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
-
-<p align="center">
-	<strong>2015</strong>
-</p>
 
 * <a href="https://www.amazon.com/Its-Not-About-Bike-Journey/dp/0425179613/ref=sr_1_1?ie=UTF8&qid=1499618551&sr=8-1&keywords=It%27s+Not+About+the+Bike%3A+My+Journey+Back+to+Life">It's Not About the Bike: My Journey Back to Life</a>, by Lance Armstrong, Sally Jenkins<span class="rating">  &#9733;&#9734;&#9734;&#9734;&#9734;</span>
 
