@@ -38,6 +38,7 @@ permalink: /meta/
 
 * <a href="https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6">Activation Functions</a>
 
+* <a href="https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9">Deep Learning for Object Detection</a>
 
 ### Distributed Systems
 
