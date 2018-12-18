@@ -71,6 +71,8 @@ permalink: /meta/
 
 * <a href="https://www.amazon.com/Clapton-Autobiography-Eric/dp/038551851X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1519649164&sr=1-1">Eric Clapton: The Autobiography</a>, by Eric Clapton
 
+* <a href="https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X/ref=sr_1_1?ie=UTF8&qid=1545123183&sr=8-1&keywords=bad+blood">Bad Blood: Secrets and Lies in a Silicon Valley Startup</a>, by John Carreyrou
+
 ### 2018
 
 * <a href="https://www.amazon.com/Devils-Advocate-Untold-Karan-Thapar/dp/9352779843/ref=sr_1_1?ie=UTF8&qid=1539192518&sr=8-1&keywords=devils+advocate+karan+thapar">Devil's Advocate : The Untold Story</a>, by Karan Thapar<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
