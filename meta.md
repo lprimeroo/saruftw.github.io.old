@@ -49,6 +49,7 @@ permalink: /meta/
 * <a href="https://boredzo.org/pointers/">Everything you need to know about pointers in C</a>
 <hr />
 <br />
+
 ## Reading List
 
 <p align="center">
