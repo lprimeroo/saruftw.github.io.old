@@ -10,45 +10,12 @@ permalink: /meta/
   Storing stuff for bookkeeping and reference purposes.
 </p>
 
-* [Great Links](#great-links)
-	* [Artificial Intelligence](#artificial-intelligence)
-	* [Distributed Systems](#distributed-systems)
-	* [Programming Languages](#programming-languages)
 * [My Reading List](#reading-list)
 	* [2019](#2019)
 	* [2018](#2018)
 	* [2017](#2017)
 	* [2016](#2016)
 
-## Great Links
-
-<p align="center">
-  Collection of various articles and tutorials, I immensely enjoyed reading.
-</p>
-
-### Artificial Intelligence
-
-* <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a>
-
-* <a href="http://dlsys.cs.washington.edu/pdf/lecture4.pdf">Backpropagation and Automatic Differentiation</a>
-
-* <a href="https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf">Intuitively Understanding Variational Autoencoders</a>
-
-* <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html">The Annotated Transformer</a>
-
-* <a href="https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6">Activation Functions</a>
-
-* <a href="https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9">Deep Learning for Object Detection</a>
-
-### Distributed Systems
-
-* <a href="http://thesecretlivesofdata.com/raft/">Raft: Understandable Distributed Consensus</a>
-
-### Programming Languages
-
-* <a href="https://boredzo.org/pointers/">Everything you need to know about pointers in C</a>
-<hr />
-<br />
 
 ## Reading List
 
