@@ -20,7 +20,7 @@ permalink: /meta/
 ## Reading List
 
 <p align="center">
-  A small segment of my online space where I maintain a record of the books I've finished reading. ٩(●ᴗ●)۶
+  A small segment of my online space where I maintain a record of the books I've finished reading. This inspires me to read more. ٩(●ᴗ●)۶
 </p>
 
 ### 2019
