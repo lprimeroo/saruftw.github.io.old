@@ -39,13 +39,14 @@ permalink: /meta/
 
 * <a href="https://www.amazon.com/Clapton-Autobiography-Eric/dp/038551851X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1519649164&sr=1-1">Eric Clapton: The Autobiography</a>, by Eric Clapton
 
-* <a href="https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X/ref=sr_1_1?ie=UTF8&qid=1545123183&sr=8-1&keywords=bad+blood">Bad Blood: Secrets and Lies in a Silicon Valley Startup</a>, by John Carreyrou
+* <a href="https://www.amazon.com/Breakout-Nations-Pursuit-Economic-Miracles/dp/0393345408/ref=sr_1_1?s=books&ie=UTF8&qid=1530035427&sr=1-1&keywords=breakout+nation&dpID=41hYc4eB4cL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">Breakout Nations: In Pursuit of the Next Economic Miracles</a>, by Ruchir Sharma
 
 ### 2018
 
 * <a href="https://www.amazon.com/Devils-Advocate-Untold-Karan-Thapar/dp/9352779843/ref=sr_1_1?ie=UTF8&qid=1539192518&sr=8-1&keywords=devils+advocate+karan+thapar">Devil's Advocate : The Untold Story</a>, by Karan Thapar<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
-* <a href="https://www.amazon.com/Breakout-Nations-Pursuit-Economic-Miracles/dp/0393345408/ref=sr_1_1?s=books&ie=UTF8&qid=1530035427&sr=1-1&keywords=breakout+nation&dpID=41hYc4eB4cL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">Breakout Nations: In Pursuit of the Next Economic Miracles</a>, by Ruchir Sharma
+
+* <a href="https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X/ref=sr_1_1?ie=UTF8&qid=1545123183&sr=8-1&keywords=bad+blood">Bad Blood: Secrets and Lies in a Silicon Valley Startup</a>, by John Carreyrou<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
 * <a href="https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?s=books&ie=UTF8&qid=1525172248&sr=1-1&keywords=the+subtle+art+of+not+giving+a+f---+mark+manson&dpID=51VNlzbfpXL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">The Subtle Art of Not Giving a F*ck</a>, by Mark Manson<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
