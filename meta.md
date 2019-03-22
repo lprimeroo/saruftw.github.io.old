@@ -41,6 +41,8 @@ permalink: /meta/
 
 * <a href="https://www.amazon.com/Breakout-Nations-Pursuit-Economic-Miracles/dp/0393345408/ref=sr_1_1?s=books&ie=UTF8&qid=1530035427&sr=1-1&keywords=breakout+nation&dpID=41hYc4eB4cL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">Breakout Nations: In Pursuit of the Next Economic Miracles</a>, by Ruchir Sharma
 
+* <a href="https://www.amazon.com/FALCON-Method-Building-Passive-Investing/dp/1631610406/ref=sr_1_1?crid=3S1QZ0OD66SDB&keywords=the+falcon+method&qid=1553246001&s=gateway&sprefix=the+falcon+method%2Caps%2C332&sr=8-1">The FALCON Method</a>, by David Solyomi<span class="rating">  &#9733;&#9733;&#9734;&#9734;&#9734;</span>
+
 * <a href="https://www.amazon.in/More-Less-Finding-Under-Everything/dp/1601427964">The More of Less</a>, by Joshua Becker<span class="rating">  &#9733;&#9733;&#9734;&#9734;&#9734;</span>
 
 * <a href="https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666">The Dip</a>, by Seth Godin<span class="rating">  &#9733;&#9734;&#9734;&#9734;&#9734;</span>
