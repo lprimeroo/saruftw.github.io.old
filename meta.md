@@ -43,7 +43,7 @@ permalink: /meta/
 
 * <a href="https://www.amazon.com/FALCON-Method-Building-Passive-Investing/dp/1631610406/ref=sr_1_1?crid=3S1QZ0OD66SDB&keywords=the+falcon+method&qid=1553246001&s=gateway&sprefix=the+falcon+method%2Caps%2C332&sr=8-1">The FALCON Method</a>, by David Solyomi<span class="rating">  &#9733;&#9733;&#9734;&#9734;&#9734;</span>
 
-* <a href="https://www.amazon.in/More-Less-Finding-Under-Everything/dp/1601427964">The More of Less</a>, by Joshua Becker<span class="rating">  &#9733;&#9733;&#9734;&#9734;&#9734;</span>
+* <a href="https://www.amazon.com/Palestine-Four-Thousand-Year-History/dp/1786992728/ref=sr_1_4?keywords=palestine&qid=1553575519&s=gateway&sr=8-4">Palestine: A Four Thousand Year History</a>, by Nur Masahla<span class="rating">  &#9733;&#9733;&#9733;&#9733;&#9734;</span>
 
 * <a href="https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666">The Dip</a>, by Seth Godin<span class="rating">  &#9733;&#9734;&#9734;&#9734;&#9734;</span>
 
