@@ -10,6 +10,6 @@ Hi! I'm <strong>Sarthak</strong>. People call me <strong>Saru</strong> <em>(obli
 </p>
 
 <p align="center">
-Say ( ^_^)<em>／</em> on <a href="https://twitter.com/saruftw" target="_blank">Twitter</a> or <em><a href="mailto:smunshi@cmu.edu" target="_blank">smunshi@cmu.edu</a></em> [<a href="https://pastebin.com/yVZ45Tfn" target="_blank">GPG Key</a>]
+Say ( ^_^)<em>／</em> on <a href="https://twitter.com/saruftw" target="_blank">twitter</a> or <em><a href="mailto:smunshi@cmu.edu" target="_blank">smunshi@cmu.edu</a></em> [<a href="https://pastebin.com/yVZ45Tfn" target="_blank">GPG Key</a>]
 </p>
 
