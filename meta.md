@@ -15,6 +15,7 @@ permalink: /meta/
 	* [2018](#2018)
 	* [2017](#2017)
 	* [2016](#2016)
+* [My Podcasts List](#podcast-list)
 
 
 ## Reading List
@@ -111,3 +112,14 @@ permalink: /meta/
 * <a href="https://www.amazon.com/Revolution-2020-Love-Corruption-Ambition/dp/8129135531/ref=sr_1_1?ie=UTF8&qid=1499618305&sr=8-1&keywords=Revolution+2020%3A+Love%2C+Corruption%2C+Ambition">Revolution 2020: Love, Corruption, Ambition</a>, by Chetan Bhagat<span class="rating">  &#9733;&#9734;&#9734;&#9734;&#9734;</span>
 
 * <a href="https://www.amazon.com/Five-Point-Someone-What-Not/dp/8129135493/ref=sr_1_1?ie=UTF8&qid=1499618252&sr=8-1&keywords=Five+Point+Someone">Five Point Someone</a>, by Chetan Bhagat <span class="rating">  &#9733;&#9734;&#9734;&#9734;&#9734;</span>
+
+
+## Podcasts List
+
+<p align="center">
+  Some of the podcasts, I thoroughly enjoyed (and still enjoy!) listening to.
+</p>
+
+* <a href="https://hackablepodcast.com/" target="_blank">Hackable?</a>
+
+* <a href="https://darknetdiaries.com/" target="_blank">Darknet Diaries</a>
