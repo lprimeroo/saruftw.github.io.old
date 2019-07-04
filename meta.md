@@ -15,7 +15,7 @@ permalink: /meta/
 	* [2018](#2018)
 	* [2017](#2017)
 	* [2016](#2016)
-* [My Podcasts List](#podcast-list)
+* [My Podcasts List](#podcasts-list)
 
 
 ## Reading List
@@ -120,6 +120,8 @@ permalink: /meta/
   Some of the podcasts, I thoroughly enjoyed (and still enjoy!) listening to.
 </p>
 
-* <a href="https://hackablepodcast.com/" target="_blank">Hackable?</a>
+* <a href="https://mastersofscale.com/" target="_blank">Masters of Scale</a>, by Reid Hoffman
 
-* <a href="https://darknetdiaries.com/" target="_blank">Darknet Diaries</a>
+* <a href="https://hackablepodcast.com/" target="_blank">Hackable?</a>, by Geoff Siskind
+
+* <a href="https://darknetdiaries.com/" target="_blank">Darknet Diaries</a>, by Jack Rhysider
