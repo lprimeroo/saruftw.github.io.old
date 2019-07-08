@@ -11,10 +11,6 @@ permalink: /meta/
 </p>
 
 * [My Reading List](#reading-list)
-	* [2019](#2019)
-	* [2018](#2018)
-	* [2017](#2017)
-	* [2016](#2016)
 * [My Podcasts List](#podcasts-list)
 
 
@@ -23,8 +19,6 @@ permalink: /meta/
 <p align="center">
   A small segment of my online space where I maintain a record of the books I've finished reading. This inspires me to read more. ٩(●ᴗ●)۶
 </p>
-
-### 2019
 
 * <a href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021">Principles: Life and Work</a>, by Ray Dalio
 
@@ -50,10 +44,7 @@ permalink: /meta/
 
 * <a href="https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666">The Dip</a>, by Seth Godin<span class="rating">  &#9733;&#9734;&#9734;&#9734;&#9734;</span>
 
-### 2018
-
 * <a href="https://www.amazon.com/Devils-Advocate-Untold-Karan-Thapar/dp/9352779843/ref=sr_1_1?ie=UTF8&qid=1539192518&sr=8-1&keywords=devils+advocate+karan+thapar">Devil's Advocate : The Untold Story</a>, by Karan Thapar<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
-
 
 * <a href="https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X/ref=sr_1_1?ie=UTF8&qid=1545123183&sr=8-1&keywords=bad+blood">Bad Blood: Secrets and Lies in a Silicon Valley Startup</a>, by John Carreyrou<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
@@ -73,11 +64,6 @@ permalink: /meta/
 
 * <a href="https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/ref=sr_1_1?ie=UTF8&qid=1512240567&sr=8-1&keywords=1984">1984</a>, by George Orwell<span class="rating">  &#9733;&#9733;&#9733;&#9733;&#9734;</span>
 
-
-
-### 2017
-
-
 * <a href="https://www.amazon.com/Search-Schrodingers-Cat-Updated-Gribbin/dp/B00C6OM9V6/ref=sr_1_2?ie=UTF8&qid=1505757323&sr=8-2&keywords=In+Search+Of+Schrodinger%27s+Cat">In Search Of Schrodinger's Cat</a>, by John Gribbin<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
 * <a href="https://www.amazon.com/Better-Angels-Our-Nature-Violence/dp/0143122010/ref=sr_1_1?ie=UTF8&qid=1499622864&sr=8-1&keywords=The+Better+Angels+of+Our+Nature">The Better Angels of Our Nature</a>, by Steven Pinker<span class="rating">  &#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -87,9 +73,6 @@ permalink: /meta/
 * <a href="https://www.amazon.com/Brain-Story-You-David-Eagleman/dp/0525433449/ref=sr_1_1?ie=UTF8&qid=1499618721&sr=8-1&keywords=The+Brain%3A+The+Story+of+You">The Brain: The Story of You</a>, by David Eagleman<span class="rating">  &#9733;&#9733;&#9734;&#9734;&#9734;</span>
 
 * <a href="https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway/dp/0684801221/ref=sr_1_1?ie=UTF8&qid=1499619002&sr=8-1&keywords=The+Old+Man+and+the+Sea">The Old Man and the Sea</a>, by Ernest Hemingway<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
-
-
-### 2016
 
 * <a href="https://www.amazon.com/Thousand-Splendid-Suns-Khaled-Hosseini/dp/159448385X/ref=sr_1_1?ie=UTF8&qid=1499619223&sr=8-1&keywords=A+Thousand+Splendid+Suns">A Thousand Splendid Suns</a>, by Khaled Hosseini<span class="rating">  &#9733;&#9733;&#9733;&#9734;&#9734;</span>
 
