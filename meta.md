@@ -103,6 +103,8 @@ permalink: /meta/
   Some of the podcasts, I thoroughly enjoyed (and still enjoy!) listening to.
 </p>
 
+* <a href="http://weare.netflix.net/" target="_blank">We Are Netflix</a>, by Lyle Troxell
+
 * <a href="https://mastersofscale.com/" target="_blank">Masters of Scale</a>, by Reid Hoffman
 
 * <a href="https://hackablepodcast.com/" target="_blank">Hackable?</a>, by Geoff Siskind
