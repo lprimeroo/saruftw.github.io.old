@@ -36,7 +36,9 @@ permalink: /meta/
 
 * <a href="https://www.amazon.com/Breakout-Nations-Pursuit-Economic-Miracles/dp/0393345408/ref=sr_1_1?s=books&ie=UTF8&qid=1530035427&sr=1-1&keywords=breakout+nation&dpID=41hYc4eB4cL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch">Breakout Nations: In Pursuit of the Next Economic Miracles</a>, by Ruchir Sharma
 
-* <a href="https://www.amazon.com/Fine-Art-Small-Talk-Conversation/dp/1401302262/ref=sr_1_1?keywords=the+fine+art+of+small+talk&qid=1562776704&s=gateway&sr=8-1">The Fine Art of Small Talk</a>, by Debra Fine
+* <a href="https://www.amazon.com/Here-There-Everhttps://github.com/saruftw/saruftw.github.io/edit/master/meta.mdywhere-Best-Loved-Stories-ebook/dp/B07CVJ88VW/ref=sr_1_1?crid=3U6W3FEH9ASD1&keywords=here+there+and+everywhere+sudha+murthy&qid=1563603777&s=gateway&sprefix=here+there+and+everywhere+sudh%2Caps%2C361&sr=8-1">Here, There and Everywhere</a>, by Sudha Murthy<span class="rating">  &#9733;&#9733;&#9733;&#9733;&#9734;</span>
+
+* <a href="https://www.amazon.com/Fine-Art-Small-Talk-Conversation/dp/1401302262/ref=sr_1_1?keywords=the+fine+art+of+small+talk&qid=1562776704&s=gateway&sr=8-1">The Fine Art of Small Talk</a>, by Debra Fine<span class="rating">  &#9733;&#9734;&#9734;&#9734;&#9734;</span>
 
 * <a href="https://www.amazon.com/Mountains-Echoed-Khaled-Hosseini/dp/1594632383/ref=sr_1_1?crid=2SQI6PAFBHIHS&keywords=and+the+mountains+echoed+khaled+hosseini&qid=1561200318&s=gateway&sprefix=and+the+m%2Caps%2C378&sr=8-1">And the Mountains Echoed</a>, by Khaled Hosseini<span class="rating">  &#9733;&#9733;&#9734;&#9734;&#9734;</span>
 
