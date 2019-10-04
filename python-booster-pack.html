@@ -1,0 +1,395 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" />
+  <title>Home of Sarthak</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="./css/style.css" />
+  <link rel="stylesheet" type="text/css" href="./css/pygments.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="header">
+      <div id="righty">
+        <div id="nom">
+          <a href="/"><h1>Sarthak Munshi</h1></a>
+        </div>
+        <div id="links">
+          <p>
+            <a href="https://stackoverflow.com/users/3301488/saruftw">stackoverflow</a> -
+            <a href="https://twitter.com/saruftw">twitter</a> -
+            <a href="https://pastebin.com/raw/yVZ45Tfn">gpg key</a>
+            <!--- <a href="files/brice-fernandes-cv.pdf">CV(pdf)</a> -->
+            <span class="semail" >
+              <a href="#">
+                smunshi [at] cmu [dot] edu
+              </a>
+            </span>
+          </p>
+        </div> <!-- /links -->
+      </div><!-- /righty -->
+    </div><!-- /header -->
+    <div id="content">
+
+<!-- end top -->
+
+<section>
+  <h2>Python Booster Pack! - Part 1</h2><h6>Jan 24, 2018</h6>
+  <article class="post-content">
+    <p>“Python Booster Pack” is probably the most clickbait-y title you’ve read for a post which aims at documenting a few tips and tricks in Python. Believe me, the content is not as disappointing as the title. <em>kek</em>. In this post, I wish to explain some of the lesser known features that Python or some of its modules have to offer which may affect the way you code and debug or increase your developer productivity to some extent. <em>Not claiming anything though</em>. Some of them are hidden in plain sight and call for a <em>Eureka!</em> moment .</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="" />
+</p>
+
+<p>I’m not the one who discovered or developed any of these features. Most of them appeared on my Twitter feed at 2AM or my Reddit feed at 3AM or my friend’s chat at 4AM.</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7bu7LCmYp0x6T97y/giphy.gif" alt="" />
+</p>
+
+<p>Let’s begin!</p>
+
+<h3 id="introducing-lru_cache">Introducing <code class="highlighter-rouge">lru_cache()</code></h3>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">functools</span> <span class="kn">import</span> <span class="n">lru_cache</span>
+
+<span class="nd">@lru_cache</span><span class="p">(</span><span class="n">maxsize</span><span class="o">=</span><span class="bp">None</span><span class="p">)</span>
+<span class="k">def</span> <span class="nf">fibonacci_with_lru</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">n</span> <span class="k">if</span> <span class="n">n</span> <span class="ow">in</span> <span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">]</span> <span class="k">else</span> <span class="p">(</span><span class="n">fibonacci_with_lru</span><span class="p">(</span><span class="n">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span> <span class="o">+</span> <span class="n">fibonacci_with_lru</span><span class="p">(</span><span class="n">n</span> <span class="o">-</span> <span class="mi">2</span><span class="p">))</span>
+
+<span class="k">def</span> <span class="nf">fibonacci</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">n</span> <span class="k">if</span> <span class="n">n</span> <span class="ow">in</span> <span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">]</span> <span class="k">else</span> <span class="p">(</span><span class="n">fibonacci</span><span class="p">(</span><span class="n">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span> <span class="o">+</span> <span class="n">fibonacci</span><span class="p">(</span><span class="n">n</span> <span class="o">-</span> <span class="mi">2</span><span class="p">))</span>
+</code></pre></div></div>
+
+<p>Go on. Give the code mentioned above a whirl in your Jupyter notebook.</p>
+
+<p align="center">
+<img src="http://oi65.tinypic.com/vgshw5.jpg" alt="" />
+</p>
+
+<p>The <code class="highlighter-rouge">lru_cache</code> decorator in the <code class="highlighter-rouge">functools</code> module maintains a dictionary in a least recently used fashion to cache or <em>auto-memoize</em> the repeated calls. The <code class="highlighter-rouge">maxsize</code> argument in the decorator decides the max cache size (usually in the powers of 2). It has another argument called <code class="highlighter-rouge">typed</code> which, if set to <code class="highlighter-rouge">True</code>, treats <code class="highlighter-rouge">3</code> and <code class="highlighter-rouge">3.0</code> as two separate numbers.</p>
+
+<p>In the snippet above, you can notice a speed up of almost 10<sup>-3</sup> even though the input increased by 10x. This is not always advisable and certainly not a replacement for a faster non-recursive approach. It’s certainly cool and helps occasionally during prototyping and has it’s own use cases such as fetching files, etc.</p>
+
+<h3 id="bindingpry-in-python-hmmm"><code class="highlighter-rouge">binding.pry</code> in Python? Hmmm.</h3>
+
+<p>I’ve seen an umpteen number of Ruby practitioners express their undying love for <code class="highlighter-rouge">binding.pry</code>. It’s basically a debugging routine that helps you debug line by line and check various variables or object values at each stage. Well, it also exists in Python (<code class="highlighter-rouge">pip install ipdb</code>)!</p>
+
+<p>Consider the example of a Binary Search routine that we want to examine from within.</p>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">ipdb</span><span class="p">;</span> <span class="n">debug</span> <span class="o">=</span> <span class="n">ipdb</span><span class="o">.</span><span class="n">set_trace</span>
+
+<span class="k">def</span> <span class="nf">binary_search</span><span class="p">(</span><span class="n">needle</span><span class="p">,</span> <span class="n">haystack</span><span class="p">):</span>
+    <span class="n">left</span><span class="p">,</span> <span class="n">right</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">haystack</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span>
+    <span class="k">while</span> <span class="n">left</span> <span class="o">&lt;=</span> <span class="n">right</span><span class="p">:</span>
+        <span class="n">mid</span> <span class="o">=</span> <span class="n">left</span> <span class="o">+</span> <span class="p">(</span><span class="n">right</span> <span class="o">-</span> <span class="n">left</span><span class="p">)</span> <span class="o">//</span> <span class="mi">2</span>
+        <span class="n">debug</span><span class="p">();</span>
+        <span class="k">if</span> <span class="n">haystack</span><span class="p">[</span><span class="n">mid</span><span class="p">]</span> <span class="o">==</span> <span class="n">needle</span><span class="p">:</span>
+            <span class="k">return</span> <span class="bp">True</span>
+        <span class="k">elif</span> <span class="n">haystack</span><span class="p">[</span><span class="n">mid</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">needle</span><span class="p">:</span>
+            <span class="n">right</span> <span class="o">=</span> <span class="n">mid</span> <span class="o">-</span> <span class="mi">1</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">left</span> <span class="o">=</span> <span class="n">mid</span> <span class="o">+</span> <span class="mi">1</span>
+    <span class="k">return</span> <span class="bp">False</span>
+
+<span class="n">binary_search</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">])</span>
+<span class="n">binary_search</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">])</span>
+</code></pre></div></div>
+
+<p>Observe, how we’ve sneakily placed the <code class="highlighter-rouge">debug()</code> routine after the middle index deciding stage of the algorithm. Execute this code and you get something like the image below.</p>
+
+<p align="center">
+<img src="http://oi67.tinypic.com/w9i8p5.jpg" alt="" />
+</p>
+
+<p>The program pauses at the <code class="highlighter-rouge">debug()</code> call and enables code introspection. Keep in mind that <code class="highlighter-rouge">n</code> is used to move to the next line and <code class="highlighter-rouge">c</code> is used to continue through the debugger.
+You could also try multiple other debuggers. However, <code class="highlighter-rouge">ipdb</code> uses a nice IPython shell with syntax highlighting and tab-completion which makes it my favourite.</p>
+
+<h3 id="string-concatenation-puzzle">String Concatenation Puzzle</h3>
+
+<p align="center">
+<img src="http://oi64.tinypic.com/200a1iu.jpg" alt="" />
+</p>
+
+<p>Have a look at the code above. The code tries to concatenate three strings together and assign it back to the first string. Both statements essentially do the same thing but one runs almost 30 times faster compared to the other.</p>
+
+<p>This happens because in the second method <code class="highlighter-rouge">s1</code> is not destroyed while calculating the complete string.</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/SW3PNayoSGXao/giphy.gif" alt="" />
+</p>
+
+<h3 id="magic-cells-in-jupyter-notebook">Magic cells in Jupyter Notebook</h3>
+
+<p>Jupyter notebook is my favourite software ever. Period. Magic lies within it. Don’t believe me? I’ll prove it.</p>
+
+<p>Fire up your Python 3 Jupyter notebooks and <del>type</del> repeat after me.</p>
+
+<h5 id="i-can-run-bash-scripts-in-it">I can run Bash scripts in it</h5>
+
+<p align="center">
+<img src="http://oi65.tinypic.com/1zqexpe.jpg" alt="" />
+</p>
+
+<h5 id="i-can-render-latex-in-it">I can render Latex in it</h5>
+
+<p align="center">
+<img src="http://oi68.tinypic.com/iy3jo4.jpg" alt="" />
+</p>
+
+<h5 id="i-can-run-client-side-javascript-in-it">I can run client-side Javascript in it</h5>
+
+<p align="center">
+<img src="http://oi67.tinypic.com/vesykg.jpg" alt="" />
+</p>
+
+<h5 id="i-can-run-python-2-in-a-python-3-notebook">I can run Python 2 in a Python 3 notebook</h5>
+
+<p align="center">
+<img src="http://oi68.tinypic.com/2cnv62u.jpg" alt="" />
+</p>
+
+<h5 id="i-can-run-ruby-in-it">I can run Ruby in it</h5>
+<p align="center">
+<img src="http://oi65.tinypic.com/28i6xqt.jpg" alt="" />
+</p>
+
+<h5 id="i-can-render-svgs-in-it">I can render SVGs in it</h5>
+<p align="center">
+<img src="http://oi67.tinypic.com/1ibe5k.jpg" alt="" />
+</p>
+
+<p>Time for the master spell?</p>
+
+<h4 id="i-can-also-upload-directly-to-dpaste-pastebin">I can also upload directly to dpaste (pastebin)</h4>
+<p align="center">
+<img src="http://oi68.tinypic.com/n6stqx.jpg" alt="" />
+</p>
+
+<p>Lots and lots of fire emoji!</p>
+
+<h3 id="introducing-the-lineprofiler">Introducing the <code class="highlighter-rouge">LineProfiler</code></h3>
+
+<p>Ever wondered why your routine takes so long in spite of writing an efficient piece of code? Spending hours trying to figure out which part of your routine is eating up all the time may be injurious to the hair on your head.</p>
+
+<p>Anyway, if you’re on Python 2.7, start with a</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install line_profiler
+</code></pre></div></div>
+
+<p>Python 3 users need to follow,</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip3 install Cython
+git clone https://github.com/rkern/line_profiler
+<span class="nb">cd </span>line_profiler<span class="p">;</span> <span class="nb">sudo </span>python3 setup.py install
+</code></pre></div></div>
+
+<p>Let’s take an arbitrary mathematical function as an example. We import the <code class="highlighter-rouge">line_profiler</code> and <code class="highlighter-rouge">atexit</code> modules for our use and place the <code class="highlighter-rouge">@profile</code> decorator over the function we want to profile.</p>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<span class="kn">import</span> <span class="nn">line_profiler</span>
+<span class="kn">from</span> <span class="nn">atexit</span> <span class="kn">import</span> <span class="n">register</span>
+
+<span class="n">profile</span> <span class="o">=</span> <span class="n">line_profiler</span><span class="o">.</span><span class="n">LineProfiler</span><span class="p">()</span>
+<span class="n">register</span><span class="p">(</span><span class="n">profile</span><span class="o">.</span><span class="n">print_stats</span><span class="p">)</span>
+
+<span class="nd">@profile</span>
+<span class="k">def</span> <span class="nf">math_function</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+    <span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">normal</span><span class="p">(</span><span class="n">size</span><span class="o">=</span><span class="n">n</span><span class="p">)</span>
+    <span class="n">y</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">power</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span>
+    <span class="n">z</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">y</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="nb">sum</span><span class="p">(</span><span class="n">z</span><span class="p">)</span>
+
+<span class="n">math_function</span><span class="p">(</span><span class="mi">7123681</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Run your script and voila!</p>
+
+<p align="center">
+<img src="http://oi64.tinypic.com/10xx6k7.jpg" alt="" />
+</p>
+
+<p>It gives you a line by line breakdown of how many hits each line gets (greater than 1 in case of a loop), total time, time per hit and percentage time taken with respect to the entire function.</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/aLdiZJmmx4OVW/giphy.gif" alt="" />
+</p>
+
+<h3 id="save-plots-as-gifs">Save plots as GIFs</h3>
+
+<p>Animations play a significant role in conveying the behaviour of the data points. Sharing them as GIFs on social networks is even cooler.</p>
+
+<p>The code below generates a Sine curve animation in <code class="highlighter-rouge">matplotlib</code>.</p>
+
+<p align="center">
+<img src="http://oi63.tinypic.com/1jaet3.jpg" alt="" />
+</p>
+
+<p>We require the <code class="highlighter-rouge">imagemagick</code> module to save it as a GIF and the <code class="highlighter-rouge">save</code> routine by <code class="highlighter-rouge">matplotlib</code> takes care of the rest.</p>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">anim</span> <span class="o">=</span> <span class="n">animation</span><span class="o">.</span><span class="n">FuncAnimation</span><span class="p">(</span><span class="n">fig</span><span class="p">,</span> <span class="n">sine</span><span class="p">,</span> <span class="n">frames</span><span class="o">=</span><span class="nb">len</span><span class="p">(</span><span class="n">X</span><span class="p">),</span> <span class="n">interval</span><span class="o">=</span><span class="mi">50</span><span class="p">)</span>
+<span class="n">anim</span><span class="o">.</span><span class="n">save</span><span class="p">(</span><span class="s">'./animation.gif'</span><span class="p">,</span> <span class="n">writer</span><span class="o">=</span><span class="s">'imagemagick'</span><span class="p">,</span> <span class="n">fps</span><span class="o">=</span><span class="mi">60</span><span class="p">)</span>
+<span class="n">Image</span><span class="p">(</span><span class="n">url</span><span class="o">=</span><span class="s">'./animation.gif'</span><span class="p">)</span> <span class="c"># to view</span>
+</code></pre></div></div>
+
+<h3 id="images--numbers">Images == Numbers</h3>
+
+<p>Since an image is nothing but a collection of numbers, we can use a very handy lambda function to generate an image from a matrix of numbers. This lambda is quite fast and lightweight and gets the job done. This is also immensely helpful while prototyping or introspecting the dataset.</p>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<span class="kn">from</span> <span class="nn">PIL</span> <span class="kn">import</span> <span class="n">Image</span>
+
+<span class="n">get_image</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">Image</span><span class="o">.</span><span class="n">fromarray</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">uint8</span><span class="p">(</span><span class="mi">255</span> <span class="o">*</span> <span class="p">(</span><span class="n">x</span> <span class="o">-</span> <span class="n">x</span><span class="o">.</span><span class="nb">min</span><span class="p">())</span> <span class="o">/</span> <span class="n">x</span><span class="o">.</span><span class="n">ptp</span><span class="p">()))</span>
+
+<span class="n">get_image</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="mi">200</span><span class="p">,</span> <span class="mi">200</span><span class="p">))</span>
+</code></pre></div></div>
+
+<p>In the snippet above, we pass a random 200 x 200 matrix to the <code class="highlighter-rouge">get_image</code> routine and get an <del>noise</del> image.</p>
+
+<p align="center">
+<img src="http://oi67.tinypic.com/34yxze1.jpg" alt="" />
+</p>
+
+<h3 id="better-python-repl">Better Python REPL</h3>
+
+<p>Most of the Pythonistas may be familiar with this. For those who aren’t, run</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install ptpython
+</code></pre></div></div>
+
+<p><a href="https://github.com/jonathanslenders/ptpython">Ptpython</a> is a replacement for the traditional Python REPL. It boasts of autocompletion, syntax highlighting, mouse support, multi-line editing and auto-tabbing. What a package!</p>
+
+<p align="center">
+<img src="http://oi64.tinypic.com/r6wi9k.jpg" alt="" />
+</p>
+<p><br /></p>
+<p align="center">
+<img src="http://oi63.tinypic.com/95s8pd.jpg" alt="" />
+</p>
+
+<p>You could also supercharge your game by setting it as an alias for your specific Python distribution.</p>
+
+<h3 id="cython-is-3">Cython is &lt;3</h3>
+
+<p>We often encounter scripts that perform a simple task but crunch a lot of data. Gaining any sort of speed up is a real pain at times. Let’s see how we can achieve this to some extent, starting with a simple Python program.</p>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">n</span> <span class="o">=</span> <span class="mi">100000000</span>
+<span class="n">arr</span> <span class="o">=</span> <span class="p">[</span><span class="mf">0.0</span><span class="p">]</span> <span class="o">*</span> <span class="n">n</span>
+
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+    <span class="n">arr</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span> <span class="o">%</span> <span class="mi">3</span>
+
+<span class="k">print</span><span class="p">(</span><span class="n">arr</span><span class="p">[:</span><span class="mi">10</span><span class="p">])</span>
+</code></pre></div></div>
+
+<p>Time taken:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>13.26s user 0.31s system 99% cpu 13.636 total
+</code></pre></div></div>
+
+<p>Using modifications inspired from Cython, let’s convert this program to something like the one below (also change the file extension to <code class="highlighter-rouge">.pyx</code>),</p>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">array</span> <span class="kn">import</span> <span class="n">array</span>
+
+<span class="n">cdef</span> <span class="nb">int</span> <span class="n">n</span> <span class="o">=</span> <span class="mi">100000000</span>
+<span class="n">cdef</span> <span class="nb">object</span> <span class="n">arr</span> <span class="o">=</span> <span class="n">array</span><span class="p">(</span><span class="s">'d'</span><span class="p">,</span> <span class="p">[</span><span class="mf">0.0</span><span class="p">])</span> <span class="o">*</span> <span class="n">n</span>
+<span class="n">cdef</span> <span class="n">double</span><span class="p">[:]</span> <span class="n">mv</span> <span class="o">=</span> <span class="n">arr</span>
+
+<span class="n">cdef</span> <span class="nb">int</span> <span class="n">i</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+    <span class="n">mv</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">i</span> <span class="o">%</span> <span class="mi">3</span>
+
+<span class="k">print</span><span class="p">(</span><span class="n">arr</span><span class="p">[:</span><span class="mi">10</span><span class="p">])</span>
+</code></pre></div></div>
+
+<p>Execute it using,</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install Cython
+cythonize <span class="nt">-b</span> <span class="nt">-i</span> filename.pyx
+python <span class="nt">-c</span> <span class="s2">"import &lt;filename&gt;"</span>
+</code></pre></div></div>
+
+<p>Time taken:</p>
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>0.53s user 0.31s system 86% cpu 0.866 total
+</code></pre></div></div>
+
+<p>Holy smokes! That’s almost 25 times faster than our non-cython code.</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3XR0chfiSTtAI/giphy.gif" alt="" />
+</p>
+
+<p>This happens because Cython creates a native binary that is linked at runtime. I’ve heard about a few use cases where it gives a speed up of almost 100x. If a few type declarations and avoiding Python’s lucid syntax doesn’t bother you much, this is a great option for computing heavy scripts.</p>
+
+<h3 id="named-tuple">Named Tuple</h3>
+
+<p>This is one of the lesser known data structures in the <code class="highlighter-rouge">collections</code> module. Its working is explained in the snippet below.</p>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">collections</span> <span class="kn">import</span> <span class="n">namedtuple</span>
+<span class="n">Candidate</span> <span class="o">=</span> <span class="n">namedtuple</span><span class="p">(</span><span class="s">'Candidate'</span><span class="p">,</span> <span class="s">'name age gender'</span><span class="p">)</span>
+<span class="n">candidate_1</span> <span class="o">=</span> <span class="n">Candidate</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s">'John Doe'</span><span class="p">,</span> <span class="n">age</span><span class="o">=</span><span class="mi">35</span><span class="p">,</span> <span class="n">gender</span><span class="o">=</span><span class="s">'M'</span><span class="p">)</span>
+
+<span class="c"># Output</span>
+<span class="c"># &gt;&gt;&gt; candidate_1</span>
+<span class="c"># Candidate(name='John Doe', age=35, gender='M')</span>
+<span class="c"># &gt;&gt;&gt; candidate_1.name</span>
+<span class="c"># 'John Doe'</span>
+<span class="c"># &gt;&gt;&gt; candidate_1.age</span>
+<span class="c"># 35</span>
+<span class="c"># &gt;&gt;&gt; candidate_1.gender</span>
+<span class="c"># 'M'</span>
+</code></pre></div></div>
+
+<p><code class="highlighter-rouge">namedtuple</code> seems like a great replacement for people who want a <code class="highlighter-rouge">struct</code> like functionality in Python and want to avoid classes in order to maintain basic records.</p>
+
+<p><br />
+This wraps up the Part 1 of the “Python Booster Pack”. I’ll be on the hunt for more interesting stuff and hopefully there will be a Part 2. Until then, Adios!</p>
+
+<p>Part 2: <a href="./python-booster-pack-2.html">Link</a></p>
+
+  </article>
+
+</section>
+
+
+<!-- begin bottom -->
+
+
+    </div><!-- /content -->
+  </div><!-- /container -->
+  <div class="block">
+    <div id="disqus_thread"></div>
+    <script>
+      /**
+       *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+       *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+       */
+      /*
+      var disqus_config = function () {
+          this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+          this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
+      */
+      (function() {  // DON'T EDIT BELOW THIS LINE
+          var d = document, s = d.createElement('script');
+          
+          s.src = 'https://blog-7snynlmin2.disqus.com/embed.js';
+          
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  </div>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-63062556-4', 'auto');
+    ga('send', 'pageview');
+  </script>
+</body>
+</html>
+
