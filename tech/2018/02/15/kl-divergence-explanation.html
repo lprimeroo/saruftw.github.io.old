@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" />
   <title>Home of Sarthak</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
   <link rel="stylesheet" type="text/css" href="../../../../css/style.css" />
   <link rel="stylesheet" type="text/css" href="../../../../css/pygments.css" />
 </head>
@@ -66,7 +70,7 @@
 
 <p>Suppose, the astronaut wants to convey today’s temperature to the NASA official. He could do it by sending the string - “Today’s temperature is 105°C”. This string is 28 characters or 8 x 28 = 224 bits long. Do we really need these many bits? If we shorten the string to just “105”, we still require 3 x 8 = 24 bits to convey the information. Since we have 8 different temperature levels, the ideal way to go about it would be to use 3 bits where each 3-bit pattern represents a specific temperature level. Using 24 bits to represent information worth only 3 bits is a sin. Also, note that if a receiver successfully receives the information of the temperature being 105°C, it would have reduced its uncertainty(or confusion) by a factor of 8(as mentioned earlier).</p>
 
-<p>Well, this was easy. But how do we find the magic number of 3 mathematically? That is easy too, right? Just take a <script type="math/tex">\log_2</script> of the number of available unique pieces of information (eg. <script type="math/tex">\log_2 8 = 3</script>) and we’re sorted. Well, no!</p>
+<p>Well, this was easy. But how do we find the magic number of 3 mathematically? That is easy too, right? Just take a \(\log_2\) of the number of available unique pieces of information (eg. \( \log_2 8 = 3 \)) and we’re sorted. Well, no!</p>
 
 <p>That would only work if the probabilities for all the temperatures levels is same. It is to be noted that in the case of uneven probabilities(as in our example), we can further save up on the number of bits being transferred and that is what entropy addresses. The intuition here is that we don’t need as many bits for something that occurs much more frequently compared to something that occurs rarely. If 105°C occurs 60% of the time and 162°C occurs only 2% of the time, then it doesn’t makes sense to use the same bit code(encoding) for representing both these pieces of information.</p>
 
@@ -97,7 +101,7 @@
 <span class="n">np</span><span class="o">.</span><span class="n">prod</span><span class="p">([</span><span class="mf">0.30</span><span class="p">,</span> <span class="mf">0.40</span><span class="p">,</span> <span class="mf">0.05</span><span class="p">,</span> <span class="mf">0.06</span><span class="p">,</span> <span class="mf">0.07</span><span class="p">,</span> <span class="mf">0.02</span><span class="p">,</span> <span class="mf">0.05</span><span class="p">,</span> <span class="mf">0.05</span><span class="p">])</span>
 <span class="c"># result = 0.0000000012600000000000002</span>
 </code></pre></div></div>
-<p>However, calculating the product serves no purpose as the result is extremely tiny and doesn’t provide a lot of insights. Multiplication is also an expensive operation. A simple way to tackle this is to convert this into a sum by using <script type="math/tex">\log</script>. Utilizing the property,</p>
+<p>However, calculating the product serves no purpose as the result is extremely tiny and doesn’t provide a lot of insights. Multiplication is also an expensive operation. A simple way to tackle this is to convert this into a sum by using <p>\(\log\)</p>. Utilizing the property,</p>
 
 <p>\(\log(xy) = \log(x) + \log(y)\)</p>
 
@@ -121,13 +125,13 @@
 
 <p>Entropy means the average number of bits/guesses. Had the probabilities been similar for all the temperatures, we could have just done</p>
 
-<script type="math/tex; mode=display">- \frac{1}{8}(\sum_{i} \log_2 (\frac{1}{8})) = -\log_2 (\frac{1}{8}) = 3.0 \\</script>
+<p>- \( \frac{1}{8}(\sum_{i} \log_2 (\frac{1}{8})) = -\log_2 (\frac{1}{8}) = 3.0 \)</p>
 
-<p>But since we already have a given probability distribution, we multiply each of the <script type="math/tex">\log_2 p_i</script> terms with their respective probabilities. Why? Because when we calculate an average of a set of numbers, we assume that each of the numbers in the set are equally likely to be closer to the average. But when the probabilities for each number in the set are mentioned, things are done differently.</p>
+<p>But since we already have a given probability distribution, we multiply each of the \( \log_2 p_i \) terms with their respective probabilities. Why? Because when we calculate an average of a set of numbers, we assume that each of the numbers in the set are equally likely to be closer to the average. But when the probabilities for each number in the set are mentioned, things are done differently.</p>
 
-<script type="math/tex; mode=display">- (0.30(\log_2 0.30) + 0.40(\log_2 0.40) + 0.05(\log_2 0.05) + 0.06(\log_2 0.06) + 0.07(\log_2 0.07) + \\0.02(\log_2 0.02) + 0.05(\log_2 0.05) + 0.05(\log_2 0.05)) \\
-\text{or}\\
-- \sum_{i} p_i\log_2 p_i = 2.323115964316818 = \text{~}2.3\\</script>
+<p>\( - (0.30(\log_2 0.30) + 0.40(\log_2 0.40) + 0.05(\log_2 0.05) + 0.06(\log_2 0.06) + 0.07(\log_2 0.07) + \\0.02(\log_2 0.02) + 0.05(\log_2 0.05) + 0.05(\log_2 0.05)) \)</p>
+<p>\( \text{or} \)</p>
+<p>\(- \sum_{i} p_i\log_2 p_i = 2.323115964316818 = \text{~}2.3 \)</p>
 
 <p>Obtaining an entropy roughly equal to 2.3 tells us that we need to ask questions on an average of 2.3 times or need 2.3 bits per information in order to clearly determine what the message stands for and efficiently transmit it. This also means that we only have 2.3 bits of useful information out of the 3 bits if we would have used the coding scheme described earlier (we’d be wasting 0.7 bits if we used a 3-bit pattern on this sample).</p>
 
@@ -152,13 +156,13 @@
 
 <p>In simple terms,</p>
 
-<p>Given that <script type="math/tex">H(p) = - \sum_{i} p_i\log_2 p_i</script> represents entropy, we can say that <script type="math/tex">H(p, q) = - \sum_{i} p_i\log_2 q_i</script> represents cross entropy. You ask how? Well, consider you have 2 probability distributions <em>p</em> and <em>q</em> where <em>p</em> represents a true distribution and <em>q</em> represents a predicted distribution. Both <em>p</em> and <em>q</em> are distributions over the same set of events. Imagine the last step of a neural network wherein you obtain a probability distribution(or <em>q</em>) and then compare it with a distribution you already know beforehand(or <em>p</em>) where both the distributions describe the same set of classes such animals, plants, cars, or whatever your model is trained on.</p>
+<p>Given that \( H(p) = - \sum_{i} p_i\log_2 p_i \) represents entropy, we can say that \( H(p, q) = - \sum_{i} p_i\log_2 q_i \) represents cross entropy. You ask how? Well, consider you have 2 probability distributions <em>p</em> and <em>q</em> where <em>p</em> represents a true distribution and <em>q</em> represents a predicted distribution. Both <em>p</em> and <em>q</em> are distributions over the same set of events. Imagine the last step of a neural network wherein you obtain a probability distribution(or <em>q</em>) and then compare it with a distribution you already know beforehand(or <em>p</em>) where both the distributions describe the same set of classes such animals, plants, cars, or whatever your model is trained on.</p>
 
 <p>In entropy, we find the optimal/average number of bits we require to transmit an information using a probability distribution applied to its set of events. If we use the probability distribution of <em>q</em> to devise a code for the information from <em>p</em>, then the optimal/average number of bits we’ll need is known as the cross entropy. This is quite insightful. Cross-entropy tells us how different the 2 distributions are. The closer they are, the closer will their entropies be.</p>
 
 <p>Hence, it is represented as follows.</p>
 
-<script type="math/tex; mode=display">H(p, q) = - \sum_{i} p_i\log_2 q_i</script>
+<p> \( H(p, q) = - \sum_{i} p_i\log_2 q_i \)</p>
 
 <p>Let’s write some code to better understand this.</p>
 
@@ -177,11 +181,9 @@
 <span class="n">plt</span><span class="o">.</span><span class="n">bar</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">8</span><span class="p">)</span> <span class="o">+</span> <span class="mf">0.35</span><span class="p">,</span> <span class="n">true_probability</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mf">0.35</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s">"b"</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </code></pre></div></div>
-<p align="center">
-<img src="http://oi65.tinypic.com/29gkg2e.jpg" alt="" height="350px" width="450px" />
-</p>
 
-<p>All we’ve done till now is generate 2 random probability distributions such that they add up to 1 and plotted them. Below, we’ve written certain routines to calculate entropies and cross-entropies for these 2 distributions.</p>
+
+<p>All we’ve done till now is generate 2 random probability distributions such that they add up to 1. Below, we’ve written certain routines to calculate entropies and cross-entropies for these 2 distributions.</p>
 
 <div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">entropy</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
     <span class="k">return</span> <span class="o">-</span><span class="nb">sum</span><span class="p">([</span><span class="n">x_i</span> <span class="o">*</span> <span class="n">log</span><span class="p">(</span><span class="n">x_i</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span> <span class="k">for</span> <span class="n">x_i</span> <span class="ow">in</span> <span class="n">x</span><span class="p">])</span>
@@ -203,11 +205,11 @@
 
 <p>The KL divergence between two probability distributions is just the number of extra bits we need if we encode the information represented by one distribution using the probability distribution of the other. It is the difference between cross entropy and entropy. Yes, that’s it. You can take a guess regarding how it is mathematically represented and you’ll probably be right.</p>
 
-<script type="math/tex; mode=display">KLD = cross entropy - entropy = H(p, q) - H(p) \\
-= (- \sum_{i} p_i\log_2 q_i) - (- \sum_{i} p_i\log_2 p_i)\\
-= \sum_{i} p_i\log_2 p_i - \sum_{i} p_i\log_2 q_i\\
-\text{using } \log(x \div y) = \log(x) - \log(y) \text{ we get,}\\
-KLD = \sum_{i} p_i log_2 (\frac{p_i}{q_i})\\</script>
+<p>\( KLD = cross entropy - entropy = H(p, q) - H(p) \)</p>
+<p>\(= (- \sum_{i} p_i\log_2 q_i) - (- \sum_{i} p_i\log_2 p_i)\)</p>
+<p>\(= \sum_{i} p_i\log_2 p_i - \sum_{i} p_i\log_2 q_i\)</p>
+<p>\(\text{using } \log(x \div y) = \log(x) - \log(y) \text{ we get,}\)</p>
+<p>\(KLD = \sum_{i} p_i log_2 (\frac{p_i}{q_i}) \)</p>
 
 <p>Lesser the cross-entropy, lesser will be the KL divergence. The term <em>divergence</em> in itself is quite self-explanatory. The factor by which one distribution diverges from the other is basically what KL divergence is.</p>
 
